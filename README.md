@@ -8,8 +8,6 @@
 
 [Max Sum Contiguous Subarray](array/max-sum-contiguous-subarray.md)
 
-Find Duplicate in Array
-
 Merge Intervals
 
 Spiral Order Matrix I
