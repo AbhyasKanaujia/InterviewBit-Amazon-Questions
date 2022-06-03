@@ -16,4 +16,4 @@
 
 [Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
 
-Merge Overlapping Intervals
+[Merge Overlapping Intervals](array/merge-overlapping-intervals.md)

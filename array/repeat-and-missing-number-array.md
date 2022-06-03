@@ -1,4 +1,4 @@
-# ▶ Repeat and Missing Number Array
+# Repeat and Missing Number Array
 
 {% embed url="https://www.interviewbit.com/problems/repeat-and-missing-number-array/" %}
 
