@@ -14,6 +14,6 @@
 
 [Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 
-Repeat and Missing Number Array
+[Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
 
 Merge Overlapping Intervals
