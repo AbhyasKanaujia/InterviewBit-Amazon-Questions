@@ -11,3 +11,4 @@
 * [Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 * [Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
 * [Merge Overlapping Intervals](array/merge-overlapping-intervals.md)
+* [Set Matrix Zeros](array/set-matrix-zeros.md)
