@@ -12,7 +12,7 @@
 
 [Merge Intervals](array/merge-intervals.md)
 
-Spiral Order Matrix I
+[Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 
 Repeat and Missing Number Array
 
