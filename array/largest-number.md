@@ -2,9 +2,6 @@
 
 {% embed url="https://www.interviewbit.com/problems/largest-number/" %}
 
-1. Sort the input such that simply appending them one after another forms the result
-2. Sort using special comparator function that checks for both possibilities of positions for any two given numbers.
-
 ```cpp
 bool comp(string n1, string n2) {
     return n1 + n2 > n2 + n1;

@@ -14,3 +14,4 @@
 * [Set Matrix Zeros](array/set-matrix-zeros.md)
 * [Spiral Order Matrix II](array/spiral-order-matrix-ii.md)
 * [Largest Number](array/largest-number.md)
+* [First Missing Integer](array/first-missing-integer.md)
