@@ -27,3 +27,5 @@
 [First Missing Integer](array/first-missing-integer.md)
 
 [Pascal Triangle](array/pascal-triangle.md)
+
+[Max Distance](array/max-distance.md)
