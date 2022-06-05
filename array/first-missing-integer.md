@@ -1,5 +1,7 @@
 # First Missing Integer
 
+{% embed url="https://www.interviewbit.com/problems/first-missing-integer/" %}
+
 ### Brute Force
 
 <details>
@@ -74,4 +76,35 @@ int Solution::firstMissingPositive(vector<int> &A) {
 
 Time Complexity: $$O(n\log n)$$​
 
-Space Complexity: $$O(1)$$​
+Space Complexity: $$O(1)$$
+
+### Optimal Solution
+
+<details>
+
+<summary>Code</summary>
+
+```cpp
+int Solution::firstMissingPositive(vector<int> &A) {
+    int n = A.size();
+    for(int i = 0; i < n; i++) 
+        if(A[i] > 0 && A[i] <= n) {
+            int pos = A[i] - 1;
+            if(A[pos] != A[i]) {
+                swap(A[pos], A[i]);
+                i--;
+            }
+        }
+    
+    for(int i = 0; i < n; i++)
+        if(A[i] != i + 1) return (i + 1);
+
+    return n + 1;
+}
+```
+
+</details>
+
+Time Complexity: $$O(n)$$​
+
+Space Complexity: $$O(1)$$
