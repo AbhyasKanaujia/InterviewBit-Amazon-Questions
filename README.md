@@ -25,3 +25,5 @@
 [Largest Number](array/largest-number.md)
 
 [First Missing Integer](array/first-missing-integer.md)
+
+[Pascal Triangle](array/pascal-triangle.md)

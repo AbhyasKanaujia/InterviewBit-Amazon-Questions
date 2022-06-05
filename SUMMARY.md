@@ -15,3 +15,4 @@
 * [Spiral Order Matrix II](array/spiral-order-matrix-ii.md)
 * [Largest Number](array/largest-number.md)
 * [First Missing Integer](array/first-missing-integer.md)
+* [Pascal Triangle](array/pascal-triangle.md)
