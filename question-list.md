@@ -29,3 +29,5 @@
 [Pascal Triangle](array/pascal-triangle.md)
 
 [Max Distance](array/max-distance.md)
+
+[Wavy Array](array/wavy-array.md)
