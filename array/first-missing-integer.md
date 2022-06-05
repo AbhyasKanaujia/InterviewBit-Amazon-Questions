@@ -60,6 +60,10 @@ Space Complexity: $$O(n)$$
 
 ### Using Sorting
 
+<details>
+
+<summary>Code</summary>
+
 ```cpp
 int Solution::firstMissingPositive(vector<int> &A) {
     sort(A.begin(), A.end());
@@ -73,6 +77,8 @@ int Solution::firstMissingPositive(vector<int> &A) {
     return expected;
 }
 ```
+
+</details>
 
 Time Complexity: $$O(n\log n)$$​
 
