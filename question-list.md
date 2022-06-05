@@ -31,3 +31,5 @@
 [Max Distance](array/max-distance.md)
 
 [Wavy Array](array/wavy-array.md)
+
+[Next Permutation](array/next-permutation.md)
