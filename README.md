@@ -36,7 +36,7 @@
 
 * [x] Min Steps in Infinite Grid
 * [x] Flip
-* [ ] Find Permutation
+* [x] Find Permutation
 * [ ] Maximum Absolute DIfference
 * [ ] Maximum Unsorted Subarray
 

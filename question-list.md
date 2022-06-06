@@ -37,3 +37,5 @@
 [Min Steps in Infinite Grid ](array/min-steps-in-infinite-grid.md)
 
 [Flip](array/flip.md)
+
+[Find Permutation](array/find-permutation.md)
