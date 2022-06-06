@@ -29,13 +29,13 @@
 * [x] Find Missing Integer
 * [x] Pascal Triangle
 * [x] Max Distance
-* [ ] Next Permutation
+* [x] Next Permutation
 * [x] Wave Array
 
 ### 4th June
 
-* [ ] Min Steps in Infinite Grid
-* [ ] Flip
+* [x] Min Steps in Infinite Grid
+* [x] Flip
 * [ ] Find Permutation
 * [ ] Maximum Absolute DIfference
 * [ ] Maximum Unsorted Subarray

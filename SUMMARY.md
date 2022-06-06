@@ -21,3 +21,4 @@
 * [Wavy Array](array/wavy-array.md)
 * [Next Permutation](array/next-permutation.md)
 * [Min Steps in Infinite Grid](array/min-steps-in-infinite-grid.md)
+* [Flip](array/flip.md)
