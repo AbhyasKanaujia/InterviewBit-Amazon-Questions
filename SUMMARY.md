@@ -24,3 +24,4 @@
 * [Flip](array/flip.md)
 * [Find Permutation](array/find-permutation.md)
 * [❌ Maximum Absolute Difference](array/maximum-absolute-difference.md)
+* [Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)

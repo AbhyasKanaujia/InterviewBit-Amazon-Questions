@@ -1,5 +1,9 @@
 # 😇 README
 
+### All My Public Notebooks
+
+{% embed url="https://gist.github.com/AbhyasKanaujia/b1aa2c5ba91e8a0b7796fecdbf52023a" %}
+
 <details>
 
 <summary>Progress</summary>
@@ -33,7 +37,7 @@
 * [x] Min Steps in Infinite Grid
 * [x] Flip
 * [x] Find Permutation
-* [ ] Maximum Absolute Difference
+* [ ] Maximum Absolute DIfference
 * [ ] Maximum Unsorted Subarray
 
 ### 5th June
@@ -69,7 +73,3 @@
 * [ ] Compare Version Numbers
 
 </details>
-
-### All My Public Notebooks
-
-{% embed url="https://gist.github.com/AbhyasKanaujia/b1aa2c5ba91e8a0b7796fecdbf52023a" %}
