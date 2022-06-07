@@ -40,7 +40,7 @@
 
 * [x] Reorder Data in Log Files
 * [x] Make Equal Array
-* [ ] Excel Column Number
+* [x] Excel Column Number
 * [ ] Excel Column Title
 * [ ] Grid Unique Paths
 

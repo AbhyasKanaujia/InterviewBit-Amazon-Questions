@@ -47,3 +47,7 @@
 [Reorder Data in Log File](array/reorder-data-in-log-file.md)
 
 [Make equal elements Array](array/make-equal-elements-array.md)
+
+### Math
+
+[Excel Column Number](math/excel-column-number.md)

@@ -7,7 +7,7 @@
 
 * [Rotate Matrix](array/rotate-matrix.md)
 * [Max Sum Contiguous Subarray](array/max-sum-contiguous-subarray.md)
-* [❌ Find Duplicate in Array](array/find-duplicate-in-array.md)
+* [Find Duplicate in Array](array/find-duplicate-in-array.md)
 * [Merge Intervals](array/merge-intervals.md)
 * [Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 * [Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
@@ -23,7 +23,12 @@
 * [Min Steps in Infinite Grid](array/min-steps-in-infinite-grid.md)
 * [Flip](array/flip.md)
 * [Find Permutation](array/find-permutation.md)
-* [❌ Maximum Absolute Difference](array/maximum-absolute-difference.md)
+* [Maximum Absolute Difference](array/maximum-absolute-difference.md)
 * [Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)
 * [Reorder Data in Log File](array/reorder-data-in-log-file.md)
 * [Make equal elements Array](array/make-equal-elements-array.md)
+
+## Math
+
+* [Excel Column Number](math/excel-column-number.md)
+* [Excel Column Title](math/excel-column-title.md)
