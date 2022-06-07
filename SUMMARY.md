@@ -32,3 +32,4 @@
 
 * [Excel Column Number](math/excel-column-number.md)
 * [Excel Column Title](math/excel-column-title.md)
+* [Grid Unique Paths](math/grid-unique-paths.md)

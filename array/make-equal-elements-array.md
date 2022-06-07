@@ -1,6 +1,6 @@
 # Make equal elements Array
 
-{% embed url="https://www.interviewbit.com/problems/make-equal-elements-array/" %}
+
 
 ```cpp
 int Solution::solve(vector<int> &A, int B) {;
@@ -20,11 +20,8 @@ int Solution::solve(vector<int> &A, int B) {;
 
     return true;
 }
+
 ```
-
-Time Complexity: $$O(n)$$​
-
-Space Complexity: $$O(n)$$​
 
 ```
 x = 1
