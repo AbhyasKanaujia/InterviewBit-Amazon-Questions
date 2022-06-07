@@ -39,7 +39,7 @@
 ### 5th June
 
 * [x] Reorder Data in Log Files
-* [ ] Make Equal Array
+* [x] Make Equal Array
 * [ ] Excel Column Number
 * [ ] Excel Column Title
 * [ ] Grid Unique Paths

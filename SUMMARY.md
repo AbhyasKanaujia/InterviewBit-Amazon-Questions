@@ -26,3 +26,4 @@
 * [❌ Maximum Absolute Difference](array/maximum-absolute-difference.md)
 * [Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)
 * [Reorder Data in Log File](array/reorder-data-in-log-file.md)
+* [Make equal elements Array](array/make-equal-elements-array.md)
