@@ -1,8 +1,18 @@
 # 😇 README
 
+Solving important Amazon questions from InterviewBit list of Amazon Questions.&#x20;
+
+{% embed url="https://www.interviewbit.com/search/?q=Amazon" %}
+List of Questions
+{% endembed %}
+
+### Rules
+
+1. &#x20;5 questions every day. Anyhow.&#x20;
+
 <details>
 
-<summary>Progress</summary>
+<summary>Progress and Calendar </summary>
 
 ### 1st June
 
