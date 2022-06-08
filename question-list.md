@@ -59,3 +59,5 @@
 [Power Of Two Integers](math/power-of-two-integers.md)
 
 [Next Similar Number](math/next-similar-number.md)
+
+[k-th Permutation](math/k-th-permutation.md) :star:

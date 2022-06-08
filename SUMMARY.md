@@ -31,7 +31,8 @@
 ## Math
 
 * [Excel Column Number](math/excel-column-number.md)
-* [Excel Column Title](math/excel-column-title.md)
+* [⭐ Excel Column Title](math/excel-column-title.md)
 * [Grid Unique Paths](math/grid-unique-paths.md)
 * [Power Of Two Integers](math/power-of-two-integers.md)
 * [Next Similar Number](math/next-similar-number.md)
+* [⭐ k-th Permutation](math/k-th-permutation.md)
