@@ -57,7 +57,7 @@ List of Questions
 ### 6th June
 
 * [x] Power of Two Integers
-* [ ] Next Silimar Number
+* [x] Next Silimar Number
 * [ ] k-th Permutation
 * [ ] Median of Array
 * [ ] Square Root of Integer
