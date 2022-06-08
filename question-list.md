@@ -55,3 +55,5 @@
 [Excel Column Title](math/excel-column-title.md) :star:
 
 [Grid Unique Paths](math/grid-unique-paths.md)
+
+[Power Of Two Integers](math/power-of-two-integers.md)

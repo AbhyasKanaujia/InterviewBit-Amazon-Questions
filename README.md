@@ -52,11 +52,11 @@ List of Questions
 * [x] Make Equal Array
 * [x] Excel Column Number
 * [x] Excel Column Title
-* [ ] Grid Unique Paths
+* [x] Grid Unique Paths
 
 ### 6th June
 
-* [ ] Power of Two Integers
+* [x] Power of Two Integers
 * [ ] Next Silimar Number
 * [ ] k-th Permutation
 * [ ] Median of Array
