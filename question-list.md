@@ -61,3 +61,7 @@
 [Next Similar Number](math/next-similar-number.md)
 
 [k-th Permutation](math/k-th-permutation.md) :star:
+
+### Binary Search
+
+[Median of Array](binary-search/median-of-array.md)

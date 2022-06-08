@@ -28,7 +28,7 @@
 * [Reorder Data in Log File](array/reorder-data-in-log-file.md)
 * [Make equal elements Array](array/make-equal-elements-array.md)
 
-## Math
+## ➕ Math
 
 * [Excel Column Number](math/excel-column-number.md)
 * [⭐ Excel Column Title](math/excel-column-title.md)
@@ -36,3 +36,7 @@
 * [Power Of Two Integers](math/power-of-two-integers.md)
 * [Next Similar Number](math/next-similar-number.md)
 * [⭐ k-th Permutation](math/k-th-permutation.md)
+
+## 🔍 Binary Search
+
+* [Median of Array](binary-search/median-of-array.md)
