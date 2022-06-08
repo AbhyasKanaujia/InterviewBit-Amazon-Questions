@@ -60,7 +60,7 @@ List of Questions
 * [x] Next Silimar Number
 * [x] k-th Permutation
 * [x] Median of Array
-* [ ] Square Root of Integer
+* [x] Square Root of Integer
 
 ### 7th June
 

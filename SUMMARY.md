@@ -32,12 +32,12 @@
 
 * [Excel Column Number](math/excel-column-number.md)
 * [⭐ Excel Column Title](math/excel-column-title.md)
-* [Grid Unique Paths](math/grid-unique-paths.md)
+* [⭐ Grid Unique Paths](math/grid-unique-paths.md)
 * [Power Of Two Integers](math/power-of-two-integers.md)
 * [Next Similar Number](math/next-similar-number.md)
 * [⭐ k-th Permutation](math/k-th-permutation.md)
 
 ## 🔍 Binary Search
 
-* [Median of Array](binary-search/median-of-array.md)
-* [Square Root of Integer](binary-search/square-root-of-integer.md)
+* [⭐ Median of Array](binary-search/median-of-array.md)
+* [⭐ Square Root of Integer](binary-search/square-root-of-integer.md)

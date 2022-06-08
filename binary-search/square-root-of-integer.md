@@ -1,4 +1,4 @@
-# Square Root of Integer
+# ⭐ Square Root of Integer
 
 {% embed url="https://www.interviewbit.com/search/?q=Amazon" %}
 
