@@ -41,5 +41,6 @@
 
 * [⭐ Median of Array](binary-search/median-of-array.md)
 * [⭐ Square Root of Integer](binary-search/square-root-of-integer.md)
-* [Rotated Sorted Array Search](binary-search/rotated-sorted-array-search.md)
+* [⭐ Rotated Sorted Array Search](binary-search/rotated-sorted-array-search.md)
 * [⭐ Matrix Median](binary-search/matrix-median.md)
+* [⭐ Capacity To Ship Packages Within B Days](binary-search/capacity-to-ship-packages-within-b-days.md)

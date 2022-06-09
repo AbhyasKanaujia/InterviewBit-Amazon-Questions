@@ -1,4 +1,4 @@
-# Rotated Sorted Array Search
+# ⭐ Rotated Sorted Array Search
 
 {% embed url="https://www.interviewbit.com/problems/rotated-sorted-array-search/" %}
 

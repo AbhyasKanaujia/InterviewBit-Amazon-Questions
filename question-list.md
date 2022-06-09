@@ -52,7 +52,7 @@
 
 [Excel Column Number](math/excel-column-number.md)
 
-[Excel Column Title](math/excel-column-title.md) :star:
+[Excel Column Title](math/excel-column-title.md)
 
 [Grid Unique Paths](math/grid-unique-paths.md)
 
@@ -60,7 +60,7 @@
 
 [Next Similar Number](math/next-similar-number.md)
 
-[k-th Permutation](math/k-th-permutation.md) :star:
+[k-th Permutation](math/k-th-permutation.md)
 
 ### Binary Search
 
@@ -71,3 +71,6 @@
 [Rotated Sorted Array Search](binary-search/rotated-sorted-array-search.md)
 
 [Matrix Median](binary-search/matrix-median.md)
+
+[Capacity To Ship Packages Within B Days](binary-search/capacity-to-ship-packages-within-b-days.md)
+

@@ -66,7 +66,7 @@ List of Questions
 
 * [x] Rotated Sorted Array search
 * [x] Matrix Median
-* [ ] Capacity To ship packages within B Days
+* [x] Capacity To ship packages within B Days
 * [ ] Implement \`StrStr\`
 * [ ] Integer To Roman
 
