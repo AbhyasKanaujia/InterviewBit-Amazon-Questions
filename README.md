@@ -65,7 +65,7 @@ List of Questions
 ### 7th June
 
 * [x] Rotated Sorted Array search
-* [ ] Matrix Median
+* [x] Matrix Median
 * [ ] Capacity To ship packages within B Days
 * [ ] Implement \`StrStr\`
 * [ ] Integer To Roman
