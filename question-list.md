@@ -65,3 +65,7 @@
 ### Binary Search
 
 [Median of Array](binary-search/median-of-array.md)
+
+[Square Root of Integer](binary-search/square-root-of-integer.md)
+
+[Rotated Sorted Array Search](binary-search/rotated-sorted-array-search.md)
