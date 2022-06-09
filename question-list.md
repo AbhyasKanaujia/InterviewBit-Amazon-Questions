@@ -74,3 +74,7 @@
 
 [Capacity To Ship Packages Within B Days](binary-search/capacity-to-ship-packages-within-b-days.md)
 
+### String
+
+[Implement StrStr](string/implement-strstr.md)
+
