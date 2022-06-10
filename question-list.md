@@ -83,3 +83,5 @@
 [Roman to Integer](string/roman-to-integer.md)
 
 [Length of Last Word](string/length-of-last-word.md)
+
+[atoi](string/atoi.md)
