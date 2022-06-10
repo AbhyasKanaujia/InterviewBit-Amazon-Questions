@@ -75,7 +75,7 @@ List of Questions
 * [x] Roman To Integer
 * [x] Length of the Last word
 * [x] Atoi
-* [ ] Valid IP Addresses
+* [x] Valid IP Addresses
 * [ ] Compare Version Numbers
 
 </details>
