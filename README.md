@@ -76,7 +76,7 @@ List of Questions
 * [x] Length of the Last word
 * [x] Atoi
 * [x] Valid IP Addresses
-* [ ] Compare Version Numbers
+* [x] Compare Version Numbers
 
 </details>
 
