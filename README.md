@@ -73,7 +73,7 @@ List of Questions
 ### 8th June
 
 * [x] Roman To Integer
-* [ ] Length of the Last word
+* [x] Length of the Last word
 * [ ] Atoi
 * [ ] Valid IP Addresses
 * [ ] Compare Version Numbers
