@@ -72,7 +72,7 @@ List of Questions
 
 ### 8th June
 
-* [ ] Roman To Integer
+* [x] Roman To Integer
 * [ ] Length of the Last word
 * [ ] Atoi
 * [ ] Valid IP Addresses
