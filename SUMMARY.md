@@ -53,4 +53,5 @@
 * [Length of Last Word](string/length-of-last-word.md)
 * [⭐ atoi](string/atoi.md)
 * [⭐ Valid IP Addresses](string/valid-ip-addresses.md)
-* [Compare Version Numbers](string/compare-version-numbers.md)
+* [⭐ Compare Version Numbers](string/compare-version-numbers.md)
+* [⭐ Longest Palindromic Substring](string/longest-palindromic-substring.md)

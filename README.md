@@ -80,7 +80,7 @@ List of Questions
 
 ### 9th June
 
-* [ ] Longest Palindromic SUbstring
+* [x] Longest Palindromic SUbstring
 * [ ] Count And Say
 * [ ] Reverse the String
 * [ ] Power of 2
