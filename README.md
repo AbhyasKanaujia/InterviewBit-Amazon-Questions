@@ -78,6 +78,70 @@ List of Questions
 * [x] Valid IP Addresses
 * [x] Compare Version Numbers
 
+### 9th June
+
+* [ ] Longest Palindromic SUbstring
+* [ ] Count And Say
+* [ ] Reverse the String
+* [ ] Power of 2
+* [ ] Minimum Characters  Required to Make a String Palindromic
+
+### 10th June
+
+* [ ] Convert to Palindrome
+* [ ] Bulls and Cows
+* [ ] Reverse Bits
+* [ ] Single Number
+* [ ] Divide Integers
+
+### 11th June
+
+* [ ] Single Number II
+* [ ] Count Total Set Bits
+* [ ] Palindromic Binary Representation
+* [ ] Merge Two Sorted Lists II
+* [ ] 3 Sum
+
+### 12th June
+
+* [ ] Remove Duplicates from sorted Array
+* [ ] Container With Most Water
+* [ ] Remove Element from Array
+* [ ] Max Continuous Series of 1s
+* [ ] Pair With Given Difference
+
+### 13th June
+
+* [ ] Maximum Ones After Modification
+* [ ] Swap List Nodes in Pairs
+* [ ] Rotate List
+* [ ] Reorder List
+* [ ] Merge Two Sorted Lists
+
+### 14th June
+
+* [ ] Remove Duplicates from Sorted List
+* [ ] Add Two Numbers as Lists
+* [ ] Remove Nth Node from List End
+* [ ] Remove Nth Node from List End
+* [ ] List Cycle
+
+### 15th June
+
+* [ ] Intersection of Linked List
+* [ ] Reverse Linked List II
+* [ ] Palindrome List
+* [ ] K reverse Linked List
+* [ ] Reverse Linked List II
+
+### 16th June
+
+* [ ] Palindrome List
+* [ ] K reverse Linked List
+* [ ] Reverse Alternate K Nodes
+* [ ] Kth Node from Middle
+* [ ] Sort Binary Linked List
+
 </details>
 
 ### All My Public Notebooks
