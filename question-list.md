@@ -93,9 +93,3 @@
 [Longest Palindromic Substring](string/longest-palindromic-substring.md)
 
 [Count And Say](string/count-and-say.md)
-
-[Reverse the String](string/reverse-the-string.md)
-
-[Power of 2](string/power-of-2.md)
-
-[Conver to Palindrome](string/convert-to-palindrome.md)

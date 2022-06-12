@@ -59,3 +59,13 @@ int Solution::solve(string A) {
 }
 ```
 
+Time Complexity: $$O(n)$$​
+
+Space Complexity: $$O(1)$$​
+
+The given solution on the website is <mark style="color:red;">wrong</mark>.&#x20;
+
+They are returning <mark style="color:green;">true</mark> after checking if no mismatch is found i.e. the given string is a valid palindrome.
+
+But they are missing the fact that a valid palindrome cannot be converted to a valid palindrome by removing a single character if the palindrome is of even length.&#x20;
+
