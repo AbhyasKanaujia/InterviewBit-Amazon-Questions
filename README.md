@@ -88,7 +88,7 @@ List of Questions
 
 ### 10th June
 
-* [ ] Convert to Palindrome
+* [x] Convert to Palindrome
 * [ ] Bulls and Cows
 * [ ] Reverse Bits
 * [ ] Single Number

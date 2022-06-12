@@ -59,3 +59,4 @@
 * [Reverse the String](string/reverse-the-string.md)
 * [Power of 2](string/power-of-2.md)
 * [🚧 KMP: Minimum Characters  Required to Make a String Palindromic](string/kmp-minimum-characters-required-to-make-a-string-palindromic.md)
+* [⭐ Convert to Palindrome](string/convert-to-palindrome.md)

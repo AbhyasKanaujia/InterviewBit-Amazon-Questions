@@ -7,7 +7,7 @@
 <summary>Thoughts</summary>
 
 * **0:00** The name of the questions sounds like one of those that I clearly won't be able to solve on my own. I'll just give it a try once and see if I should go straight to the solution.&#x20;
-* **36:00** I spent a lot more time than I wanted to. I have a solution that should work but it's giving the wrong answer. Time to take it to OnlineGDB.
+* **36:00** I spent a lot more time than I wanted to. I have a solution that should work but it's giving the wrong answer. [Time to take it to OnlineGDB](https://onlinegdb.com/hMadqrAus).
 * **45:00** So the problem was that I read the question wrong and thought that we can insert characters at both the beginning and the end. Let's see if it will work now that I know this.&#x20;
 * Ok, so my solution was correct but not optimal. I'm surprised I was able to solve this at all. I'll paste it here as a brute-force solution and see the provided solution.&#x20;
 * **50:00** According to the hint, I need to learn KMP. I'll go ahead and watch a video on that.
