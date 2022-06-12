@@ -81,7 +81,7 @@ List of Questions
 ### 9th June
 
 * [x] Longest Palindromic SUbstring
-* [ ] Count And Say
+* [x] Count And Say
 * [ ] Reverse the String
 * [ ] Power of 2
 * [ ] Minimum Characters  Required to Make a String Palindromic
