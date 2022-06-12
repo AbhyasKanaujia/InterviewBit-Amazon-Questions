@@ -82,7 +82,7 @@ List of Questions
 
 * [x] Longest Palindromic SUbstring
 * [x] Count And Say
-* [ ] Reverse the String
+* [x] Reverse the String
 * [ ] Power of 2
 * [ ] Minimum Characters  Required to Make a String Palindromic
 
