@@ -106,4 +106,6 @@
 
 48\. [Single Number](string/single-number.md)
 
-49\. [Divide Integers](string/divide-integers.md)
+49\. [Divide Integers](string/divide-integers.md) :x:
+
+50\. [Single Number II](string/single-number-ii.md)

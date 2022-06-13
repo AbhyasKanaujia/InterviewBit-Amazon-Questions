@@ -1,4 +1,10 @@
-# Divide Integers
+---
+cover: >-
+  https://images.unsplash.com/photo-1496694048509-8e8d567dd69d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8ZGl2aWRlfGVufDB8fHx8MTY1NTEzNjU1Mw&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ Divide Integers
 
 {% embed url="https://www.interviewbit.com/problems/divide-integers/" %}
 
