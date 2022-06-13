@@ -1,4 +1,10 @@
-# Find Permutation
+---
+cover: >-
+  https://images.unsplash.com/photo-1591696205602-2f950c417cb9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxpbmNyZWFzZSUyMGRlY3JlYXNlfGVufDB8fHx8MTY1NTEyMjAwOQ&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ Find Permutation
 
 {% embed url="https://www.interviewbit.com/problems/find-permutation/" %}
 
@@ -34,7 +40,7 @@ n = 8
 Output = 8 7 6 5 1 4 3 2
 
 Simple insert 1 2 3... in all the I's as `ascenings`
-and B (B - 1) (B - 2).. in all the D's as `descendings`
+and n (n - 1) (n - 2).. in all the D's as `descendings`
 
 In the end push_back the average of the ascending and descending.
 ```
