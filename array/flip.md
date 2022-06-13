@@ -4,12 +4,9 @@ cover: >-
 coverY: 127.426597582038
 ---
 
-# ⭐ Flip
+# Flip
 
 {% embed url="https://www.interviewbit.com/problems/flip/hints/" %}
-One operation means changing character **0** to **1** and vice-versa.\
-our aim is to perform **ATMOST** one operation such that in the final string number of **1s** is maximised.
-{% endembed %}
 
 ```cpp
 vector<int> Solution::flip(string A) {

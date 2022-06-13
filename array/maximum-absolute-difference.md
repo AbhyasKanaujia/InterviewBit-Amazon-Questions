@@ -1,9 +1,6 @@
-# Maximum Absolute Difference
+# ❌ Maximum Absolute Difference
 
 {% embed url="https://www.interviewbit.com/problems/maximum-absolute-difference/" %}
-Return maximum value of `f(i, j)` for all 1 ≤ _i, j_ ≤ N.\
-`f(i, j)` is defined as `|A[i] - A[j]| + |i - j|`
-{% endembed %}
 
 ### Brute Force Solution
 

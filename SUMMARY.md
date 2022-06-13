@@ -9,9 +9,9 @@
 * [✅ Max Sum Contiguous Subarray](array/max-sum-contiguous-subarray.md)
 * [Find Duplicate in Array](array/find-duplicate-in-array.md)
 * [Merge Intervals](array/merge-intervals.md)
-* [✅ Spiral Order Matrix I](array/spiral-order-matrix-i.md)
+* [Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 * [Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
-* [✅ Merge Overlapping Intervals](array/merge-overlapping-intervals.md)
+* [Merge Overlapping Intervals](array/merge-overlapping-intervals.md)
 * [✅ Set Matrix Zeros](array/set-matrix-zeros.md)
 * [Spiral Order Matrix II](array/spiral-order-matrix-ii.md)
 * [Largest Number](array/largest-number.md)
@@ -28,11 +28,11 @@
 * [Reorder Data in Log File](array/reorder-data-in-log-file.md)
 * [Make equal elements Array](array/make-equal-elements-array.md)
 
-## ➕ Math
+## Math
 
 * [Excel Column Number](math/excel-column-number.md)
-* [⭐ Excel Column Title](math/excel-column-title.md)
-* [⭐ Grid Unique Paths](math/grid-unique-paths.md)
+* [Excel Column Title](math/excel-column-title.md)
+* [Grid Unique Paths](math/grid-unique-paths.md)
 * [Power Of Two Integers](math/power-of-two-integers.md)
 * [Next Similar Number](math/next-similar-number.md)
 * [⭐ k-th Permutation](math/k-th-permutation.md)
@@ -61,3 +61,4 @@
 * [🚧 KMP: Minimum Characters  Required to Make a String Palindromic](string/kmp-minimum-characters-required-to-make-a-string-palindromic.md)
 * [⭐ Convert to Palindrome](string/convert-to-palindrome.md)
 * [Bulls and Cows](string/bulls-and-cows.md)
+* [Reverse Bits](string/reverse-bits.md)
