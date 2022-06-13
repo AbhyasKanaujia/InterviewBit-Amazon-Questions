@@ -1,10 +1,4 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1523457506542-088cbc0b4540?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxwYXNjYWwlMjB0cmlhbmdsZXxlbnwwfHx8fDE2NTUxMTQ5Mjc&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
-# ⭐ Pascal Triangle
+# Pascal Triangle
 
 {% embed url="https://www.interviewbit.com/problems/pascal-triangle/" %}
 
@@ -44,7 +38,3 @@ vector<vector<int> > Solution::solve(int A) {
 Time Complexity: $$O(n^3)$$​
 
 Space Complexity: $$O(n^2)$$​ for the result
-
-{% embed url="https://theconversation.com/the-12-days-of-pascals-triangular-christmas-21479" %}
-Very interesting article on pascal's trignale
-{% endembed %}

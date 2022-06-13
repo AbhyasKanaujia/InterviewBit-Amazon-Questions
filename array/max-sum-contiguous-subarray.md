@@ -1,4 +1,4 @@
-# ✅ Max Sum Contiguous Subarray
+# Max Sum Contiguous Subarray
 
 {% embed url="https://www.interviewbit.com/problems/max-sum-contiguous-subarray/" %}
 
@@ -20,7 +20,3 @@ int Solution::maxSubArray(const vector<int> &A) {
     return maxSum;
 }
 ```
-
-Time Complexity: $$O(n)$$​
-
-Space Complexity: $$O(1)$$​

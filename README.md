@@ -82,14 +82,14 @@ List of Questions
 
 * [x] Longest Palindromic SUbstring
 * [x] Count And Say
-* [ ] Reverse the String
-* [ ] Power of 2
+* [x] Reverse the String
+* [x] Power of 2
 * [ ] Minimum Characters  Required to Make a String Palindromic
 
 ### 10th June
 
-* [ ] Convert to Palindrome
-* [ ] Bulls and Cows
+* [x] Convert to Palindrome
+* [x] Bulls and Cows
 * [ ] Reverse Bits
 * [ ] Single Number
 * [ ] Divide Integers

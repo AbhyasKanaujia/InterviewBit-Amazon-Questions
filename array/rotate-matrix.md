@@ -1,4 +1,4 @@
-# ✅ Rotate Matrix
+# Rotate Matrix
 
 {% embed url="https://www.interviewbit.com/problems/rotate-matrix/" %}
 
@@ -17,7 +17,3 @@ void Solution::rotate(vector<vector<int> > &A) {
     }
 }
 ```
-
-Time Complexity: $$O(n)$$​
-
-Space Complexity: $$O(1)$$​

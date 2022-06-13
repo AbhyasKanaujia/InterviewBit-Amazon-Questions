@@ -99,3 +99,5 @@
 44\. [Power of 2](string/power-of-2.md)
 
 45\. [Conver to Palindrome](string/convert-to-palindrome.md)
+
+46\. [Bulls and Cows](string/bulls-and-cows.md)

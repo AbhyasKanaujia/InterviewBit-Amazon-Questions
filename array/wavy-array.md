@@ -1,19 +1,8 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1581451932564-cff1d8f4cacc?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHx3YXZ5fGVufDB8fHx8MTY1NTExNDgwOA&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
-# ✅ Wavy Array
-
-
+# Wavy Array
 
 {% embed url="https://www.interviewbit.com/problems/wave-array/" %}
-Given an array of integers, sort the array into a wave-like array and return it,\
-In other words, arrange the elements into a sequence such that `a1 >= a2 <= a3 >= a4 <= a5.....`
-{% endembed %}
 
-### Using Sorting and Swap Alternate (Most Optimal)
+### Using Sorting (Most Optimal)
 
 ```cpp
 vector<int> Solution::wave(vector<int> &A) {
