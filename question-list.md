@@ -4,92 +4,98 @@
 
 ### Array
 
-[Rotate Matrix](array/rotate-matrix.md)
+1. [Rotate Matrix](array/rotate-matrix.md)
 
-[Max Sum Contiguous Subarray](array/max-sum-contiguous-subarray.md)
+2\. [Max Sum Contiguous Subarray](array/max-sum-contiguous-subarray.md)
 
-[Find Duplicate in Array](array/find-duplicate-in-array.md)
+3\. [Find Duplicate in Array](array/find-duplicate-in-array.md)
 
-[Merge Intervals](array/merge-intervals.md)
+4\. [Merge Intervals](array/merge-intervals.md)
 
-[Spiral Order Matrix I](array/spiral-order-matrix-i.md)
+5\. [Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 
-[Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
+6\. [Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
 
-[Merge Overlapping Intervals](array/merge-overlapping-intervals.md)
+7\. [Merge Overlapping Intervals](array/merge-overlapping-intervals.md)
 
-[Set Matrix Zeros](array/set-matrix-zeros.md)
+8\. [Set Matrix Zeros](array/set-matrix-zeros.md)
 
-[Spiral Order Matrix II](array/spiral-order-matrix-ii.md)
+9\. [Spiral Order Matrix II](array/spiral-order-matrix-ii.md)
 
-[Largest Number](array/largest-number.md)
+10\. [Largest Number](array/largest-number.md)
 
-[First Missing Integer](array/first-missing-integer.md)
+11\. [First Missing Integer](array/first-missing-integer.md)
 
-[Pascal Triangle](array/pascal-triangle.md)
+12\. [Pascal Triangle](array/pascal-triangle.md)
 
-[Max Distance](array/max-distance.md)
+13\. [Max Distance](array/max-distance.md)
 
-[Wavy Array](array/wavy-array.md)
+14\. [Wavy Array](array/wavy-array.md)
 
-[Next Permutation](array/next-permutation.md)
+15\. [Next Permutation](array/next-permutation.md)
 
-[Min Steps in Infinite Grid ](array/min-steps-in-infinite-grid.md)
+16\. [Min Steps in Infinite Grid ](array/min-steps-in-infinite-grid.md)
 
-[Flip](array/flip.md)
+17\. [Flip](array/flip.md)
 
-[Find Permutation](array/find-permutation.md)
+18\. [Find Permutation](array/find-permutation.md)
 
-[Maximum Absolute Difference](array/maximum-absolute-difference.md)
+19\. [Maximum Absolute Difference](array/maximum-absolute-difference.md)
 
-[Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)
+20\. [Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)
 
-[Reorder Data in Log File](array/reorder-data-in-log-file.md)
+21\. [Reorder Data in Log File](array/reorder-data-in-log-file.md)
 
-[Make equal elements Array](array/make-equal-elements-array.md)
+22\. [Make equal elements Array](array/make-equal-elements-array.md)
 
 ### Math
 
-[Excel Column Number](math/excel-column-number.md)
+23\. [Excel Column Number](math/excel-column-number.md)
 
-[Excel Column Title](math/excel-column-title.md)
+24\. [Excel Column Title](math/excel-column-title.md)
 
-[Grid Unique Paths](math/grid-unique-paths.md)
+25\. [Grid Unique Paths](math/grid-unique-paths.md)
 
-[Power Of Two Integers](math/power-of-two-integers.md)
+26\. [Power Of Two Integers](math/power-of-two-integers.md)
 
-[Next Similar Number](math/next-similar-number.md)
+27\. [Next Similar Number](math/next-similar-number.md)
 
-[k-th Permutation](math/k-th-permutation.md)
+28\. [k-th Permutation](math/k-th-permutation.md)
 
 ### Binary Search
 
-[Median of Array](binary-search/median-of-array.md)
+29\. [Median of Array](binary-search/median-of-array.md)
 
-[Square Root of Integer](binary-search/square-root-of-integer.md)
+30\. [Square Root of Integer](binary-search/square-root-of-integer.md)
 
-[Rotated Sorted Array Search](binary-search/rotated-sorted-array-search.md)
+31\. [Rotated Sorted Array Search](binary-search/rotated-sorted-array-search.md)
 
-[Matrix Median](binary-search/matrix-median.md)
+32\. [Matrix Median](binary-search/matrix-median.md)
 
-[Capacity To Ship Packages Within B Days](binary-search/capacity-to-ship-packages-within-b-days.md)
+33\. [Capacity To Ship Packages Within B Days](binary-search/capacity-to-ship-packages-within-b-days.md)
 
 ### String
 
-[Implement `StrStr`](string/implement-strstr.md)
+34\. [Implement `StrStr`](string/implement-strstr.md)
 
-[Integer to Roman](string/integer-to-roman.md)
+35\. [Integer to Roman](string/integer-to-roman.md)
 
-[Roman to Integer](string/roman-to-integer.md)
+36\. [Roman to Integer](string/roman-to-integer.md)
 
-[Length of Last Word](string/length-of-last-word.md)
+37\. [Length of Last Word](string/length-of-last-word.md)
 
-[atoi](string/atoi.md)
+38\. [atoi](string/atoi.md)
 
-[Valid IP Addresses](string/valid-ip-addresses.md)
+39\. [Valid IP Addresses](string/valid-ip-addresses.md)
 
-[Compare Version Numbers](string/compare-version-numbers.md)
+40\. [Compare Version Numbers](string/compare-version-numbers.md)
 
-[Longest Palindromic Substring](string/longest-palindromic-substring.md)
+41\. [Longest Palindromic Substring](string/longest-palindromic-substring.md)
 
-[Count And Say](string/count-and-say.md)
+42\. [Count And Say](string/count-and-say.md)
+
+43\. [Reverse the String](string/reverse-the-string.md)
+
+44\. [Power of 2](string/power-of-2.md)
+
+45\. [Conver to Palindrome](string/convert-to-palindrome.md)

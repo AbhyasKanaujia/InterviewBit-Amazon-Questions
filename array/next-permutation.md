@@ -1,4 +1,12 @@
-# Next Permutation
+---
+cover: >-
+  https://images.unsplash.com/photo-1573694279179-764ff2597b5b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxwZXJtdXRhdGlvbnxlbnwwfHx8fDE2NTUxMTQ3OTE&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ Next Permutation
+
+{% embed url="https://www.interviewbit.com/problems/next-permutation/" %}
 
 ```cpp
 vector<int> Solution::nextPermutation(vector<int> &A) {

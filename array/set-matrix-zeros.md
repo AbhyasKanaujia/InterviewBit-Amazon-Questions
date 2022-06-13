@@ -1,4 +1,4 @@
-# Set Matrix Zeros
+# ✅ Set Matrix Zeros
 
 {% embed url="https://www.interviewbit.com/problems/set-matrix-zeros/" %}
 
@@ -23,3 +23,7 @@ void Solution::setZeroes(vector<vector<int> > &A) {
 }
 
 ```
+
+Time Complexity: $$O(n)$$​
+
+Space Complexity: $$O(m+n)$$

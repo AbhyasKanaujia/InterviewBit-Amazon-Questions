@@ -1,6 +1,14 @@
-# Max Distance
+---
+cover: >-
+  https://images.unsplash.com/photo-1542893849-b14a2c62aacb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8bWF4aW11bSUyMGRpc3RhbmNlfGVufDB8fHx8MTY1NTExNDg0Mw&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ Max Distance
 
 {% embed url="https://www.interviewbit.com/problems/max-distance/" %}
+Given an array **A** of integers, find the maximum of **j - i** subjected to the constraint of **A\[i] <= A\[j]**.
+{% endembed %}
 
 ### Bruteforce Solution
 
