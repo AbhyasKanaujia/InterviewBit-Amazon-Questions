@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1546722228-7baeca4bd0b3?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb3clMjBpbmRpYXxlbnwwfHx8fDE2NTUxMjAzMTU&ixlib=rb-1.2.1&q=80
+coverY: -740.5936199722607
+---
+
 # Bulls and Cows
 
 {% embed url="https://www.interviewbit.com/problems/bulls-and-cows/" %}
