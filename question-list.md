@@ -103,3 +103,5 @@
 46\. [Bulls and Cows](string/bulls-and-cows.md)
 
 47\. [Reverse Bits](string/reverse-bits.md)
+
+48\. [Single Number](string/single-number.md)

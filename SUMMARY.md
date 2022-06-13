@@ -62,3 +62,4 @@
 * [⭐ Convert to Palindrome](string/convert-to-palindrome.md)
 * [Bulls and Cows](string/bulls-and-cows.md)
 * [Reverse Bits](string/reverse-bits.md)
+* [Single Number](string/single-number.md)
