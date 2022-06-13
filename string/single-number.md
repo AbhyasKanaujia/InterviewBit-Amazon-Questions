@@ -1,6 +1,8 @@
 # Single Number
 
 {% embed url="https://www.interviewbit.com/problems/single-number/" %}
+Given an array of integers **A**, every element appears twice except for one. Find that single one.
+{% endembed %}
 
 <details>
 
