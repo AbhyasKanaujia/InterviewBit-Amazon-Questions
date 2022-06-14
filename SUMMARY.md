@@ -7,7 +7,7 @@
 
 * [✅ Rotate Matrix](array/rotate-matrix.md)
 * [✅ Max Sum Contiguous Subarray](array/max-sum-contiguous-subarray.md)
-* [Find Duplicate in Array](array/find-duplicate-in-array.md)
+* [❌ Find Duplicate in Array](array/find-duplicate-in-array.md)
 * [Merge Intervals](array/merge-intervals.md)
 * [Spiral Order Matrix I](array/spiral-order-matrix-i.md)
 * [Repeat and Missing Number Array](array/repeat-and-missing-number-array.md)
@@ -75,3 +75,4 @@
 
 * [Merge Two Sorted Lists II](two-pointers/merge-two-sorted-lists-ii.md)
 * [⭐ 3 Sum](two-pointers/3-sum.md)
+* [Remove Duplicates from sorted Array](two-pointers/remove-duplicates-from-sorted-array.md)
