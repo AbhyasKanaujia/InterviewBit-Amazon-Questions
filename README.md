@@ -8,16 +8,14 @@ List of Questions
 
 ### Rules
 
-1. &#x20;5 questions every day. Anyhow.&#x20;
+1. &#x20;Five questions every day. Anyhow.&#x20;
 
-<details>
-
-<summary>Progress and Calendar </summary>
+### Progress and Calendar&#x20;
 
 ### 1st June
 
 * [x] Rotate Matrix
-* [x] Max Sum COntiguous Sub array
+* [x] Max Sum Contiguous Sub array
 * [ ] Find Duplicate in Array
 * [x] Merge Intervals
 * [x] Spiral Order Matrix I
@@ -57,7 +55,7 @@ List of Questions
 ### 6th June
 
 * [x] Power of Two Integers
-* [x] Next Silimar Number
+* [x] Next Similar Number
 * [x] k-th Permutation
 * [x] Median of Array
 * [x] Square Root of Integer
@@ -74,7 +72,7 @@ List of Questions
 
 * [x] Roman To Integer
 * [x] Length of the Last word
-* [x] Atoi
+* [x] `Atoi`
 * [x] Valid IP Addresses
 * [x] Compare Version Numbers
 
@@ -98,8 +96,8 @@ List of Questions
 
 * [ ] Single Number II
 * [x] Count Total Set Bits
-* [ ] Palindromic Binary Representation
-* [ ] Merge Two Sorted Lists II
+* [x] Palindromic Binary Representation
+* [x] Merge Two Sorted Lists II
 * [ ] 3 Sum
 
 ### 12th June
@@ -141,6 +139,12 @@ List of Questions
 * [ ] Reverse Alternate K Nodes
 * [ ] Kth Node from Middle
 * [ ] Sort Binary Linked List
+
+<details>
+
+<summary>Progress and Calendar </summary>
+
+###
 
 </details>
 
