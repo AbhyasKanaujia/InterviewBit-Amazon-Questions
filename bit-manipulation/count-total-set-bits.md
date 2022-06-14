@@ -1,4 +1,4 @@
-# Count Total Set Bits
+# ⭐ Count Total Set Bits
 
 {% embed url="https://www.interviewbit.com/problems/count-total-set-bits/" %}
 Given a positive integer **A**, the task is to count the total number of set bits in the binary representation of all the numbers from **1** to **A**.

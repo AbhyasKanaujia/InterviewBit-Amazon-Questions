@@ -102,13 +102,14 @@
 
 46\. [Bulls and Cows](string/bulls-and-cows.md)
 
-47\. [Reverse Bits](string/reverse-bits.md)
+47\. [Reverse Bits](bit-manipulation/reverse-bits.md)
 
-48\. [Single Number](string/single-number.md)
+48\. [Single Number](bit-manipulation/single-number.md)
 
-49\. [Divide Integers](string/divide-integers.md) :x:
+49\. [Divide Integers](bit-manipulation/divide-integers.md) :x:
 
-50\. [Single Number II](string/single-number-ii.md) :x:
+50\. [Single Number II](bit-manipulation/single-number-ii.md) :x:
 
-51\. [Count Total Set Bits](string/count-total-set-bits.md)
+51\. [Count Total Set Bits](bit-manipulation/count-total-set-bits.md)
 
+52\. [Palindromic Binary Representation](bit-manipulation/palindromic-binary-representation.md)

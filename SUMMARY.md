@@ -61,8 +61,12 @@
 * [🚧 KMP: Minimum Characters  Required to Make a String Palindromic](string/kmp-minimum-characters-required-to-make-a-string-palindromic.md)
 * [⭐ Convert to Palindrome](string/convert-to-palindrome.md)
 * [Bulls and Cows](string/bulls-and-cows.md)
-* [Reverse Bits](string/reverse-bits.md)
-* [Single Number](string/single-number.md)
-* [⭐ Divide Integers](string/divide-integers.md)
-* [⭐ Single Number II](string/single-number-ii.md)
-* [Count Total Set Bits](string/count-total-set-bits.md)
+
+## 1⃣ Bit Manipulation
+
+* [Reverse Bits](bit-manipulation/reverse-bits.md)
+* [Single Number](bit-manipulation/single-number.md)
+* [⭐ Divide Integers](bit-manipulation/divide-integers.md)
+* [⭐ Single Number II](bit-manipulation/single-number-ii.md)
+* [⭐ Count Total Set Bits](bit-manipulation/count-total-set-bits.md)
+* [⭐ Palindromic Binary Representation](bit-manipulation/palindromic-binary-representation.md)
