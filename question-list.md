@@ -108,4 +108,7 @@
 
 49\. [Divide Integers](string/divide-integers.md) :x:
 
-50\. [Single Number II](string/single-number-ii.md)
+50\. [Single Number II](string/single-number-ii.md) :x:
+
+51\. [Count Total Set Bits](string/count-total-set-bits.md)
+

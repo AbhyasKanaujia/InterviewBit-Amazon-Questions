@@ -1,4 +1,4 @@
-# Median of Array
+# ⭐ Median of Array
 
 {% embed url="https://www.interviewbit.com/problems/median-of-array/" %}
 

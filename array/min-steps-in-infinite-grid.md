@@ -1,4 +1,10 @@
-# Min Steps in Infinite Grid
+---
+cover: >-
+  https://images.unsplash.com/photo-1541580103-eb54f7a758be?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxncmlkfGVufDB8fHx8MTY1NTExNDc1MA&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ Min Steps in Infinite Grid
 
 {% embed url="https://www.interviewbit.com/problems/min-steps-in-infinite-grid/" %}
 
@@ -53,6 +59,10 @@ int Solution::coverPoints(vector<int> &A, vector<int> &B) {
     return dist;
 }
 ```
+
+Time Complexity: $$O(n)$$​
+
+Space Complexity: $$O(1)$$​
 
 If `xDelta` and `yDelta` both have some magnitude we move in the diagonal direction.&#x20;
 

@@ -1,6 +1,14 @@
-# First Missing Integer
+---
+cover: >-
+  https://images.unsplash.com/photo-1635772429028-f0375f2fbddb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxtaXNzaW5nfGVufDB8fHx8MTY1NTExNTY0Nw&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ First Missing Integer
 
 {% embed url="https://www.interviewbit.com/problems/first-missing-integer/" %}
+Given an unsorted integer array, find the first missing positive integer.
+{% endembed %}
 
 ### Brute Force
 
@@ -31,6 +39,32 @@ Time Complexity: $$O(n^2)$$​
 
 Space Complexity: $$O(1)$$
 
+### Using Sorting
+
+<details>
+
+<summary>Code</summary>
+
+```cpp
+int Solution::firstMissingPositive(vector<int> &A) {
+    sort(A.begin(), A.end());
+    int expected = 1;
+    for(int x: A)
+        if(x > expected)
+            return expected;
+        else if(x == expected)
+            expected++;
+
+    return expected;
+}
+```
+
+</details>
+
+Time Complexity: $$O(n\log n)$$​
+
+Space Complexity: $$O(1)$$
+
 ### Using lookup table
 
 <details>
@@ -58,33 +92,7 @@ Time Complexity: $$O(n)$$
 
 Space Complexity: $$O(n)$$
 
-### Using Sorting
-
-<details>
-
-<summary>Code</summary>
-
-```cpp
-int Solution::firstMissingPositive(vector<int> &A) {
-    sort(A.begin(), A.end());
-    int expected = 1;
-    for(int x: A)
-        if(x > expected)
-            return expected;
-        else if(x == expected)
-            expected++;
-
-    return expected;
-}
-```
-
-</details>
-
-Time Complexity: $$O(n\log n)$$​
-
-Space Complexity: $$O(1)$$
-
-### Optimal Solution
+### Optimal Solution Cyclic Sort
 
 <details>
 

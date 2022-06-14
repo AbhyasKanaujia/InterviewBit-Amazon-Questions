@@ -1,4 +1,4 @@
-# Compare Version Numbers
+# ⭐ Compare Version Numbers
 
 {% embed url="https://www.interviewbit.com/problems/compare-version-numbers/" %}
 
