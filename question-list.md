@@ -119,3 +119,5 @@
 ### Two Pointers
 
 53\. [Merge Two Sorted Lists II](two-pointers/merge-two-sorted-lists-ii.md)
+
+54\. [3 Sum](two-pointers/3-sum.md)

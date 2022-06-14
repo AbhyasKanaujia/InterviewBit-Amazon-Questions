@@ -74,3 +74,4 @@
 ## ✌ Two Pointers
 
 * [Merge Two Sorted Lists II](two-pointers/merge-two-sorted-lists-ii.md)
+* [⭐ 3 Sum](two-pointers/3-sum.md)
