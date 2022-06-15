@@ -127,5 +127,3 @@
 56\. [Container With Most Water](two-pointers/container-with-most-water.md)
 
 57\. [Remove Element from Array](two-pointers/remove-element-from-array.md)
-
-58\. [Pair With Given Difference](two-pointers/pair-with-given-difference.md)
