@@ -102,7 +102,7 @@ List of Questions
 
 ### 12th June
 
-* [ ] Remove Duplicates from sorted Array
+* [x] Remove Duplicates from sorted Array
 * [ ] Container With Most Water
 * [ ] Remove Element from Array
 * [ ] Max Continuous Series of 1s

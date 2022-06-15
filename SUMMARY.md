@@ -76,3 +76,4 @@
 * [Merge Two Sorted Lists II](two-pointers/merge-two-sorted-lists-ii.md)
 * [⭐ 3 Sum](two-pointers/3-sum.md)
 * [Remove Duplicates from sorted Array](two-pointers/remove-duplicates-from-sorted-array.md)
+* [Container With Most Water](two-pointers/container-with-most-water.md)
