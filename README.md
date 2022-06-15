@@ -105,7 +105,7 @@ List of Questions
 * [x] Remove Duplicates from sorted Array
 * [x] Container With Most Water
 * [x] Remove Element from Array
-* [ ] Max Continuous Series of 1s
+* [x] Max Continuous Series of 1s
 * [ ] Pair With Given Difference
 
 ### 13th June
