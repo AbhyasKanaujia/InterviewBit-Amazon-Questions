@@ -103,8 +103,8 @@ List of Questions
 ### 12th June
 
 * [x] Remove Duplicates from sorted Array
-* [ ] Container With Most Water
-* [ ] Remove Element from Array
+* [x] Container With Most Water
+* [x] Remove Element from Array
 * [ ] Max Continuous Series of 1s
 * [ ] Pair With Given Difference
 

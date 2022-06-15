@@ -28,7 +28,7 @@
 * [Reorder Data in Log File](array/reorder-data-in-log-file.md)
 * [Make equal elements Array](array/make-equal-elements-array.md)
 
-## Math
+## ➕ Math
 
 * [Excel Column Number](math/excel-column-number.md)
 * [Excel Column Title](math/excel-column-title.md)
@@ -77,3 +77,4 @@
 * [⭐ 3 Sum](two-pointers/3-sum.md)
 * [Remove Duplicates from sorted Array](two-pointers/remove-duplicates-from-sorted-array.md)
 * [Container With Most Water](two-pointers/container-with-most-water.md)
+* [Remove Element from Array](two-pointers/remove-element-from-array.md)

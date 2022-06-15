@@ -12,7 +12,7 @@ Given a positive integer **A**, the task is to count the total number of set bit
 * **5:00** I observed that for numbers from 1 - 15 each position has 8 set bits. Let me [write a program](https://onlinegdb.com/phWbU1te\_) for making observations.&#x20;
 * **14:20** I'm sick of C++ being so less user-friendly when it comes to the user-facing part of it. I want to print a table and I need to program a whole lot. I'll try doing it in JavaScript this time.&#x20;
 * **38:51** JavaScript `console.table()` is working beautifully. Just that I don't know enough JavaScript to utilize it fully. This is wasting more time for me than helping me see patterns. I'll just do it the old way using pen and paper. \
-  ![](../.gitbook/assets/image.png)
+  ![](<../.gitbook/assets/image (1).png>)
 * **48:00** I see some patterns but those are not very helpful. I'll just see the solution now I've spent too much time on this.&#x20;
 * **49:00** I give the brute force approach a try before seeing the solution.&#x20;
 * **57:00** I'll see the solution.
