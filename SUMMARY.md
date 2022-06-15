@@ -81,3 +81,7 @@
 * [⭐ Max Continuous Series of 1s](two-pointers/max-continuous-series-of-1s.md)
 * [Pair With Given Difference](two-pointers/pair-with-given-difference.md)
 * [⭐ Maximum Ones After Modification](two-pointers/maximum-ones-after-modification.md)
+
+## 🔗 Linked List
+
+* [Swap List Nodes in Pairs](linked-list/swap-list-nodes-in-pairs.md)

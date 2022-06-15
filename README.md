@@ -111,7 +111,7 @@ List of Questions
 ### 13th June
 
 * [x] Maximum Ones After Modification
-* [ ] Swap List Nodes in Pairs
+* [x] Swap List Nodes in Pairs
 * [ ] Rotate List
 * [ ] Reorder List
 * [ ] Merge Two Sorted Lists

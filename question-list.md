@@ -102,7 +102,7 @@
 
 46\. [Bulls and Cows](string/bulls-and-cows.md)
 
-### Bit Manipulation
+### it Manipulation
 
 47\. [Reverse Bits](string/reverse-bits.md)
 
@@ -127,3 +127,9 @@
 56\. [Container With Most Water](two-pointers/container-with-most-water.md)
 
 57\. [Remove Element from Array](two-pointers/remove-element-from-array.md)
+
+58\. [Pair With Given Difference](two-pointers/pair-with-given-difference.md)
+
+### Linked List
+
+59\. [Swap List Nodes in Pairs](linked-list/swap-list-nodes-in-pairs.md)
