@@ -85,3 +85,4 @@
 ## 🔗 Linked List
 
 * [Swap List Nodes in Pairs](linked-list/swap-list-nodes-in-pairs.md)
+* [Rotate List](linked-list/rotate-list.md)

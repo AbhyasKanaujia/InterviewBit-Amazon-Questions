@@ -112,7 +112,7 @@ List of Questions
 
 * [x] Maximum Ones After Modification
 * [x] Swap List Nodes in Pairs
-* [ ] Rotate List
+* [x] Rotate List
 * [ ] Reorder List
 * [ ] Merge Two Sorted Lists
 
