@@ -98,7 +98,7 @@
 
 44\. [Power of 2](string/power-of-2.md)
 
-45\. [Conver to Palindrome](string/convert-to-palindrome.md)
+45\. [Convert to Palindrome](string/convert-to-palindrome.md)
 
 46\. [Bulls and Cows](string/bulls-and-cows.md)
 
@@ -141,3 +141,5 @@
 62\. [Merge Two Sorted Lists](linked-list/merge-two-sorted-lists.md)
 
 63\. [Remove Duplicates from Sorted List](linked-list/remove-duplicates-from-sorted-list.md)
+
+64\. [Add Two Numbers as Lists](linked-list/add-two-numbers-as-lists.md)

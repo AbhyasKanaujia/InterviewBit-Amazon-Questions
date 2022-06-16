@@ -119,7 +119,7 @@ List of Questions
 ### 14th June
 
 * [x] Remove Duplicates from Sorted List
-* [ ] Add Two Numbers as Lists
+* [x] Add Two Numbers as Lists
 * [ ] Remove Nth Node from List End
 * [ ] Remove Nth Node from List End
 * [ ] List Cycle
