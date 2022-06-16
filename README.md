@@ -121,7 +121,7 @@ List of Questions
 * [x] Remove Duplicates from Sorted List
 * [x] Add Two Numbers as Lists
 * [x] Remove Nth Node from List End
-* [ ] List Cycle
+* [x] List Cycle
 * [ ] Intersection of Linked List
 
 ### 15th June
