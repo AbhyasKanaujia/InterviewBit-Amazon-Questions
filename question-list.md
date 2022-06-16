@@ -143,3 +143,5 @@
 63\. [Remove Duplicates from Sorted List](linked-list/remove-duplicates-from-sorted-list.md)
 
 64\. [Add Two Numbers as Lists](linked-list/add-two-numbers-as-lists.md)
+
+65\. [Remove Nth Node from List End](linked-list/remove-nth-node-from-list-end.md)

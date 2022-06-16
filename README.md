@@ -120,21 +120,20 @@ List of Questions
 
 * [x] Remove Duplicates from Sorted List
 * [x] Add Two Numbers as Lists
-* [ ] Remove Nth Node from List End
-* [ ] Remove Nth Node from List End
+* [x] Remove Nth Node from List End
 * [ ] List Cycle
+* [ ] Intersection of Linked List
 
 ### 15th June
 
-* [ ] Intersection of Linked List
 * [ ] Reverse Linked List II
 * [ ] Palindrome List
 * [ ] K reverse Linked List
 * [ ] Reverse Linked List II
+* [ ] Palindrome List
 
 ### 16th June
 
-* [ ] Palindrome List
 * [ ] K reverse Linked List
 * [ ] Reverse Alternate K Nodes
 * [ ] Kth Node from Middle

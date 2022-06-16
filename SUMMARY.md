@@ -90,3 +90,4 @@
 * [Merge Two Sorted Lists](linked-list/merge-two-sorted-lists.md)
 * [Remove Duplicates from Sorted List](linked-list/remove-duplicates-from-sorted-list.md)
 * [Add Two Numbers as Lists](linked-list/add-two-numbers-as-lists.md)
+* [Remove Nth Node from List End](linked-list/remove-nth-node-from-list-end.md)
