@@ -122,7 +122,7 @@ List of Questions
 * [x] Add Two Numbers as Lists
 * [x] Remove Nth Node from List End
 * [x] List Cycle
-* [ ] Intersection of Linked List
+* [x] Intersection of Linked List
 
 ### 15th June
 

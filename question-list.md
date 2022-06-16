@@ -147,3 +147,5 @@
 65\. [Remove Nth Node from List End](linked-list/remove-nth-node-from-list-end.md)
 
 66\. [List Cycle](linked-list/list-cycle.md)
+
+67\. [Intersection of Linked Lists](linked-list/intersection-of-linked-lists.md)

@@ -92,3 +92,4 @@
 * [Add Two Numbers as Lists](linked-list/add-two-numbers-as-lists.md)
 * [Remove Nth Node from List End](linked-list/remove-nth-node-from-list-end.md)
 * [⭐ List Cycle](linked-list/list-cycle.md)
+* [Intersection of Linked Lists](linked-list/intersection-of-linked-lists.md)
