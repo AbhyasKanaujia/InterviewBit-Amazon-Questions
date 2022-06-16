@@ -135,3 +135,5 @@
 59\. [Swap List Nodes in Pairs](linked-list/swap-list-nodes-in-pairs.md)
 
 60\. [Rotate List](linked-list/rotate-list.md)
+
+61\. [Reorder List](linked-list/reorder-list.md)
