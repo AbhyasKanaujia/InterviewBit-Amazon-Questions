@@ -137,3 +137,7 @@
 60\. [Rotate List](linked-list/rotate-list.md)
 
 61\. [Reorder List](linked-list/reorder-list.md)
+
+62\. [Merge Two Sorted Lists](linked-list/merge-two-sorted-lists.md)
+
+63\. [Remove Duplicates from Sorted List](linked-list/remove-duplicates-from-sorted-list.md)

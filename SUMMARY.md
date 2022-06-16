@@ -87,3 +87,5 @@
 * [Swap List Nodes in Pairs](linked-list/swap-list-nodes-in-pairs.md)
 * [Rotate List](linked-list/rotate-list.md)
 * [⭐ Reorder List](linked-list/reorder-list.md)
+* [Merge Two Sorted Lists](linked-list/merge-two-sorted-lists.md)
+* [Remove Duplicates from Sorted List](linked-list/remove-duplicates-from-sorted-list.md)

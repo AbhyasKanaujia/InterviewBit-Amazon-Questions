@@ -113,12 +113,12 @@ List of Questions
 * [x] Maximum Ones After Modification
 * [x] Swap List Nodes in Pairs
 * [x] Rotate List
-* [ ] Reorder List
-* [ ] Merge Two Sorted Lists
+* [x] Reorder List
+* [x] Merge Two Sorted Lists
 
 ### 14th June
 
-* [ ] Remove Duplicates from Sorted List
+* [x] Remove Duplicates from Sorted List
 * [ ] Add Two Numbers as Lists
 * [ ] Remove Nth Node from List End
 * [ ] Remove Nth Node from List End
