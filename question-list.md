@@ -151,3 +151,5 @@
 67\. [Intersection of Linked Lists](linked-list/intersection-of-linked-lists.md)
 
 68\. [Reverse Link List II](linked-list/reverse-linked-list-ii.md)
+
+69\. [Palindrome List](linked-list/palindrome-list.md)
