@@ -153,3 +153,7 @@
 68\. [Reverse Link List II](linked-list/reverse-linked-list-ii.md)
 
 69\. [Palindrome List](linked-list/palindrome-list.md)
+
+70\. [K reverse linked list](linked-list/k-reverse-linked-list.md)
+
+\

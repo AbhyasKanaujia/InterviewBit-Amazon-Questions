@@ -128,7 +128,7 @@ List of Questions
 
 * [x] Reverse Linked List II
 * [x] Palindrome List
-* [ ] K reverse Linked List
+* [x] K reverse Linked List
 * [ ] Reverse Alternate K Nodes
 * [ ] Kth Node from Middle
 

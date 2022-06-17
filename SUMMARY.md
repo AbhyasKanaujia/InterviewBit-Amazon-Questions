@@ -95,3 +95,4 @@
 * [Intersection of Linked Lists](linked-list/intersection-of-linked-lists.md)
 * [⭐ Reverse Linked List II](linked-list/reverse-linked-list-ii.md)
 * [Palindrome List](linked-list/palindrome-list.md)
+* [K reverse linked list](linked-list/k-reverse-linked-list.md)
