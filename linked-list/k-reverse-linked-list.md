@@ -1,4 +1,4 @@
-# K reverse linked list
+# ⭐ K reverse linked list
 
 {% embed url="https://www.interviewbit.com/problems/k-reverse-linked-list/" %}
 

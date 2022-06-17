@@ -156,4 +156,4 @@
 
 70\. [K reverse linked list](linked-list/k-reverse-linked-list.md)
 
-\
+71\. [Reverse Alternate K Nodes](linked-list/reverse-alternate-k-nodes.md)
