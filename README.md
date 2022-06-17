@@ -130,7 +130,7 @@ List of Questions
 * [x] Palindrome List
 * [x] K reverse Linked List
 * [x] Reverse Alternate K Nodes
-* [ ] Kth Node from Middle
+* [x] Kth Node from Middle
 
 ### 16th June
 

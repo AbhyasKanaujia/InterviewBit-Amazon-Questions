@@ -1,4 +1,4 @@
-# Reverse Alternate K Nodes
+# ⭐ Reverse Alternate K Nodes
 
 {% embed url="https://www.interviewbit.com/problems/reverse-alternate-k-nodes/" %}
 
