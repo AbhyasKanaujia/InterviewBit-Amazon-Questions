@@ -161,3 +161,5 @@
 72\. [Kth Node From Middle](linked-list/kth-node-from-middle.md)
 
 73\. [Sort Binary Linked List](linked-list/sort-binary-linked-list.md)
+
+74\. [Even Reverse](linked-list/even-reverse.md)

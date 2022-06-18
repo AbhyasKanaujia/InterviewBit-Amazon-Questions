@@ -99,3 +99,4 @@
 * [⭐ Reverse Alternate K Nodes](linked-list/reverse-alternate-k-nodes.md)
 * [Kth Node From Middle](linked-list/kth-node-from-middle.md)
 * [Sort Binary Linked List](linked-list/sort-binary-linked-list.md)
+* [Even Reverse](linked-list/even-reverse.md)

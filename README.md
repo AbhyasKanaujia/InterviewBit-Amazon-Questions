@@ -126,32 +126,18 @@ List of Questions
 
 ### 15th June
 
-* [x] Reverse Linked List II
-* [x] Palindrome List
-* [x] K reverse Linked List
-* [x] Reverse Alternate K Nodes
-* [x] Kth Node from Middle
+* [ ] Reverse Linked List II
+* [ ] Palindrome List
+* [ ] K reverse Linked List
+* [ ] Reverse Linked List II
+* [ ] Palindrome List
 
 ### 16th June
 
-* [x] Sort Binary Linked List
-* [ ] Even Reverse
-* [ ] Rain Water Trapping
-* [ ] Generate all Parenthesis
-* [ ] Largest Rectangle in Histogram
-
-### 17th June
-
-* [ ] Sliding Window Maximum
-* [ ] Min Stack
-* [ ] Redundant Braces
-* [ ] Nearest Smaller Element
-* [ ] First non-repeating character in a stream of characters
-
-### 18th June
-
-* [ ] Balanced Parenthesis
-*
+* [ ] K reverse Linked List
+* [ ] Reverse Alternate K Nodes
+* [ ] Kth Node from Middle
+* [ ] Sort Binary Linked List
 
 <details>
 
