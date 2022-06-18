@@ -159,3 +159,5 @@
 71\. [Reverse Alternate K Nodes](linked-list/reverse-alternate-k-nodes.md)
 
 72\. [Kth Node From Middle](linked-list/kth-node-from-middle.md)
+
+73\. [Sort Binary Linked List](linked-list/sort-binary-linked-list.md)

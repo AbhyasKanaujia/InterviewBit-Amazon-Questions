@@ -134,7 +134,7 @@ List of Questions
 
 ### 16th June
 
-* [ ] Sort Binary Linked List
+* [x] Sort Binary Linked List
 * [ ] Even Reverse
 * [ ] Rain Water Trapping
 * [ ] Generate all Parenthesis
