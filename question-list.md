@@ -167,3 +167,5 @@
 ### Stacks and Queues&#x20;
 
 75\. [Rain Water Trapping](stacks-and-queues/rain-water-trapping.md)
+
+76\. [Generate all Parentheses](stacks-and-queues/generate-all-parentheses.md)

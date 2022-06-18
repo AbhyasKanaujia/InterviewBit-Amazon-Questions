@@ -137,7 +137,7 @@ List of Questions
 * [x] Sort Binary Linked List
 * [x] Even Reverse
 * [x] Rain Water Trapping
-* [ ] Generate all Parenthesis
+* [x] Generate all Parenthesis
 * [ ] Largest Rectangle in Histogram
 
 ### 17th June
