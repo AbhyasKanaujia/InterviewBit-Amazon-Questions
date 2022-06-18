@@ -171,3 +171,9 @@
 76\. [Generate all Parentheses](stacks-and-queues/generate-all-parentheses.md)
 
 77\. [Largest Rectangle in Histogram](stacks-and-queues/largest-rectangle-in-histogram.md)
+
+78\. Sliding Window Maximum
+
+79\. [Min Stack](stacks-and-queues/min-stack.md)
+
+80\. [Redundant Braces](stacks-and-queues/redundant-braces.md)

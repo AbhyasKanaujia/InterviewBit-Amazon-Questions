@@ -144,7 +144,7 @@ List of Questions
 
 * [ ] Sliding Window Maximum
 * [x] Min Stack
-* [ ] Redundant Braces
+* [x] Redundant Braces
 * [ ] Nearest Smaller Element
 * [ ] First non-repeating character in a stream of characters
 
