@@ -97,6 +97,10 @@
 * [Palindrome List](linked-list/palindrome-list.md)
 * [⭐ K reverse linked list](linked-list/k-reverse-linked-list.md)
 * [⭐ Reverse Alternate K Nodes](linked-list/reverse-alternate-k-nodes.md)
-* [Kth Node From Middle](linked-list/kth-node-from-middle.md)
-* [Sort Binary Linked List](linked-list/sort-binary-linked-list.md)
-* [Even Reverse](linked-list/even-reverse.md)
+* [⭐ Kth Node From Middle](linked-list/kth-node-from-middle.md)
+* [⭐ Sort Binary Linked List](linked-list/sort-binary-linked-list.md)
+* [⭐ Even Reverse](linked-list/even-reverse.md)
+
+## 📚 Stacks and Queues
+
+* [Rain Water Trapping](stacks-and-queues/rain-water-trapping.md)

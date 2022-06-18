@@ -1,4 +1,4 @@
-# Even Reverse
+# ⭐ Even Reverse
 
 {% embed url="https://www.interviewbit.com/problems/even-reverse/" %}
 

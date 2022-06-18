@@ -1,4 +1,4 @@
-# Sort Binary Linked List
+# ⭐ Sort Binary Linked List
 
 {% embed url="https://www.interviewbit.com/problems/sort-binary-linked-list/" %}
 

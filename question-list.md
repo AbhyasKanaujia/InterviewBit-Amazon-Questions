@@ -163,3 +163,7 @@
 73\. [Sort Binary Linked List](linked-list/sort-binary-linked-list.md)
 
 74\. [Even Reverse](linked-list/even-reverse.md)
+
+### Stacks and Queues&#x20;
+
+75\. [Rain Water Trapping](stacks-and-queues/rain-water-trapping.md)
