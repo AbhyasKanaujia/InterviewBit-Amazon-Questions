@@ -106,3 +106,4 @@
 * [⭐ Rain Water Trapping](stacks-and-queues/rain-water-trapping.md)
 * [Generate all Parentheses](stacks-and-queues/generate-all-parentheses.md)
 * [⭐ Largest Rectangle in Histogram](stacks-and-queues/largest-rectangle-in-histogram.md)
+* [⭐ Min Stack](stacks-and-queues/min-stack.md)

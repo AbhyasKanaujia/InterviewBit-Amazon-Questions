@@ -138,12 +138,12 @@ List of Questions
 * [x] Even Reverse
 * [x] Rain Water Trapping
 * [x] Generate all Parenthesis
-* [ ] Largest Rectangle in Histogram
+* [x] Largest Rectangle in Histogram
 
 ### 17th June
 
 * [ ] Sliding Window Maximum
-* [ ] Min Stack
+* [x] Min Stack
 * [ ] Redundant Braces
 * [ ] Nearest Smaller Element
 * [ ] First non-repeating character in a stream of characters
