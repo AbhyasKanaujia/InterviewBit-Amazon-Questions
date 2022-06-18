@@ -169,3 +169,5 @@
 75\. [Rain Water Trapping](stacks-and-queues/rain-water-trapping.md)
 
 76\. [Generate all Parentheses](stacks-and-queues/generate-all-parentheses.md)
+
+77\. [Largest Rectangle in Histogram](stacks-and-queues/largest-rectangle-in-histogram.md)
