@@ -146,7 +146,7 @@ List of Questions
 * [x] Min Stack
 * [x] Redundant Braces
 * [x] Nearest Smaller Element
-* [ ] First non-repeating character in a stream of characters
+* [x] First non-repeating character in a stream of characters
 
 ### 18th June
 

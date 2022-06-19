@@ -179,3 +179,7 @@
 80\. [Redundant Braces](stacks-and-queues/redundant-braces.md)
 
 81\. [Nearest Smaller Element](stacks-and-queues/nearest-smaller-element.md)
+
+82\. [First non-repeating character in a stream of characters](stacks-and-queues/first-non-repeating-character-in-a-stream-of-characters.md)
+
+###
