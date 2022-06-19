@@ -110,3 +110,4 @@
 * [Redundant Braces](stacks-and-queues/redundant-braces.md)
 * [Nearest Smaller Element](stacks-and-queues/nearest-smaller-element.md)
 * [⭐ First non-repeating character in a stream of characters](stacks-and-queues/first-non-repeating-character-in-a-stream-of-characters.md)
+* [✅ Balanced Parantheses!](stacks-and-queues/balanced-parantheses.md)
