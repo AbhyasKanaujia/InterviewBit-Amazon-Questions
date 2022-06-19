@@ -145,23 +145,13 @@ List of Questions
 * [ ] Sliding Window Maximum
 * [x] Min Stack
 * [x] Redundant Braces
-* [x] Nearest Smaller Element
-* [x] First non-repeating character in a stream of characters
+* [ ] Nearest Smaller Element
+* [ ] First non-repeating character in a stream of characters
 
 ### 18th June
 
-* [x] Balanced Parenthesis
-* [ ] Kth Permutation Sequence
-* [ ] Combination Sum&#x20;
-* [ ] Combination Sum II
-* [ ] NQueens
-* [ ] Combinations
-
-### 19th June
-
-* [ ] Subsets II
-* [ ] Subset
-* [ ] Palindrome Partitioning
+* [ ] Balanced Parenthesis
+*
 
 <details>
 

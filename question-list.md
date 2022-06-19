@@ -188,7 +188,7 @@
 
 84\. [Kth Permutation Sequence](backtracking/kth-permutation-sequence.md)
 
-85\.
+85\. [Combination Sum](backtracking/combination-sum.md)
 
 86\.
 
