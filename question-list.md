@@ -183,3 +183,16 @@
 82\. [First non-repeating character in a stream of characters](stacks-and-queues/first-non-repeating-character-in-a-stream-of-characters.md)
 
 83\. [Balanced Parantheses!](stacks-and-queues/balanced-parantheses.md)
+
+### Backtracking
+
+84\. [Kth Permutation Sequence](backtracking/kth-permutation-sequence.md)
+
+85\.
+
+86\.
+
+87\.
+
+88\.
+
