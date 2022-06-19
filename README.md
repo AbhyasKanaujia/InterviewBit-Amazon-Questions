@@ -145,7 +145,7 @@ List of Questions
 * [ ] Sliding Window Maximum
 * [x] Min Stack
 * [x] Redundant Braces
-* [ ] Nearest Smaller Element
+* [x] Nearest Smaller Element
 * [ ] First non-repeating character in a stream of characters
 
 ### 18th June

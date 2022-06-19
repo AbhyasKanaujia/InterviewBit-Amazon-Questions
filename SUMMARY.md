@@ -108,3 +108,4 @@
 * [⭐ Largest Rectangle in Histogram](stacks-and-queues/largest-rectangle-in-histogram.md)
 * [⭐ Min Stack](stacks-and-queues/min-stack.md)
 * [Redundant Braces](stacks-and-queues/redundant-braces.md)
+* [Nearest Smaller Element](stacks-and-queues/nearest-smaller-element.md)

@@ -177,3 +177,5 @@
 79\. [Min Stack](stacks-and-queues/min-stack.md)
 
 80\. [Redundant Braces](stacks-and-queues/redundant-braces.md)
+
+81\. [Nearest Smaller Element](stacks-and-queues/nearest-smaller-element.md)
