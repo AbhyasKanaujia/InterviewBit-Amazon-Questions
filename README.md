@@ -155,13 +155,14 @@ List of Questions
 * [x] Combination Sum&#x20;
 * [x] Combination Sum II
 * [x] NQueens
-* [ ] Combinations
+* [x] Combinations
 
 ### 19th June
 
 * [ ] Subsets II
 * [ ] Subset
 * [ ] Palindrome Partitioning
+*
 
 <details>
 
