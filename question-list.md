@@ -194,5 +194,28 @@
 
 87\. [NQueens](backtracking/nqueens.md)
 
-88\.
+88\. [Combinations](backtracking/combinations.md)
 
+89\.&#x20;
+
+90\.&#x20;
+
+91\.&#x20;
+
+92\.
+
+93\.
+
+94\.
+
+95\.
+
+96\.
+
+97\.
+
+98\.
+
+99\.
+
+100\.
