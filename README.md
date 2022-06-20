@@ -161,7 +161,7 @@ List of Questions
 
 * [x] Subsets II
 * [x] Subset
-* [ ] Palindrome Partitioning
+* [x] Palindrome Partitioning
 *
 
 <details>

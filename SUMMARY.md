@@ -121,3 +121,4 @@
 * [Combinations](09-backtracking/combinations.md)
 * [⭐ Subsets II](09-backtracking/subsets-ii.md)
 * [Subset](09-backtracking/subset.md)
+* [Palindrome Partitioning](09-backtracking/palindrome-partitioning.md)
