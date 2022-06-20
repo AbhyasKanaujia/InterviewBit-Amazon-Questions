@@ -20,21 +20,4 @@ void Solution::rotate(vector<vector<int> > &A) {
 
 Time Complexity: $$O(n)$$​
 
-Space Complexity: $$O(1)$$
-
-## JavaScript ES6 Solution​
-
-```javascript
-module.exports = { 
-    //param A : array of array of integers 
-    //return nothing 
-    solve : function(A){ 
-        // traspose
-        for(let i = 0; i < A.length; i++)
-            for(let j = i; j < A.length; j++) 
-                [A[i][j], A[j][i]] = [A[j][i], A[i][j]]
-        // reverse each row.
-        A.map(row => row.reverse());
-    }     
-};
-```
+Space Complexity: $$O(1)$$​

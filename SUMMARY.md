@@ -117,3 +117,4 @@
 * [⭐ Kth Permutation Sequence](backtracking/kth-permutation-sequence.md)
 * [⭐ Combination Sum](backtracking/combination-sum.md)
 * [Combination Sum II](backtracking/combination-sum-ii.md)
+* [⭐ NQueens](backtracking/nqueens.md)

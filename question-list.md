@@ -190,9 +190,9 @@
 
 85\. [Combination Sum](backtracking/combination-sum.md)
 
-86\.
+86\. [Combination Sum II](backtracking/combination-sum-ii.md)
 
-87\.
+87\. [NQueens](backtracking/nqueens.md)
 
 88\.
 
