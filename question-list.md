@@ -202,7 +202,7 @@
 
 91\. [Palindrome Partitioning](09-backtracking/palindrome-partitioning.md)
 
-92\.
+92\. [Longest Consecutive Sequence](10-hashing/longest-consecutive-sequence.md)
 
 93\.
 

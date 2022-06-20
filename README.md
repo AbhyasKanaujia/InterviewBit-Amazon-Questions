@@ -159,9 +159,9 @@ List of Questions
 
 ### 19th June
 
-* [x] Subsets II
-* [x] Subset
-* [x] Palindrome Partitioning
+* [ ] Subsets II
+* [ ] Subset
+* [ ] Palindrome Partitioning
 *
 
 <details>

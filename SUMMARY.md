@@ -122,3 +122,7 @@
 * [⭐ Subsets II](09-backtracking/subsets-ii.md)
 * [Subset](09-backtracking/subset.md)
 * [Palindrome Partitioning](09-backtracking/palindrome-partitioning.md)
+
+## 💱 10 Hashing
+
+* [⭐ Longest Consecutive Sequence](10-hashing/longest-consecutive-sequence.md)
