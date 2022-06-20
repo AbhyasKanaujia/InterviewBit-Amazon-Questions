@@ -190,7 +190,7 @@
 
 85\. [Combination Sum](backtracking/combination-sum.md)
 
-86\. [Combination Sum II](backtracking/combination-sum-ii.md)
+86\.
 
 87\.
 
