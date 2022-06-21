@@ -214,7 +214,7 @@
 
 97\. [Valid Sudoku](10-hashing/valid-sudoku.md)
 
-98\.
+98\. [Longest Substring Without Repeat](10-hashing/longest-substring-without-repeat.md)
 
 99\.
 

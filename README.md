@@ -171,11 +171,22 @@ List of Questions
 * [x] Points on the Straight Line
 * [x] 2 Sum
 * [x] Valid Sudoku
-* [ ] Copy List
+* [x] Copy List
 
 ### 21st June
 
-* [ ] Longest Substring without Repeat
+* [x] Longest Substring without Repeat
+* [ ] Merge K Sorted Lists
+* [ ] LRU Cache
+* [ ] INVERSIONS
+* [ ] Distinct Numbers in Window
+
+### 22nd June&#x20;
+
+* [ ] Maximum Sum Combinations
+* [ ] K Largest Elements
+* [ ] Inorder Traversal
+* [ ] Recover Binary Search Tree
 
 ### All My Public Notebooks
 

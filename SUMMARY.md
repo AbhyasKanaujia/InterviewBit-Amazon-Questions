@@ -132,3 +132,4 @@
 * [2 Sum](10-hashing/2-sum.md)
 * [⭐ Valid Sudoku](10-hashing/valid-sudoku.md)
 * [Copy List](10-hashing/copy-list.md)
+* [Longest Substring Without Repeat](10-hashing/longest-substring-without-repeat.md)
