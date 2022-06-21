@@ -159,18 +159,11 @@ List of Questions
 
 ### 19th June
 
-* [ ] Subsets II
-* [ ] Subset
-* [ ] Palindrome Partitioning
+* [x] Subsets II
+* [x] Subset
+* [x] Palindrome Partitioning
+* [x] 4 Sum
 *
-
-<details>
-
-<summary>Progress and Calendar </summary>
-
-###
-
-</details>
 
 ### All My Public Notebooks
 

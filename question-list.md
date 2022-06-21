@@ -204,7 +204,7 @@
 
 92\. [Longest Consecutive Sequence](10-hashing/longest-consecutive-sequence.md)
 
-93\.
+93\. [4 Sum](10-hashing/4-sum.md)
 
 94\.
 

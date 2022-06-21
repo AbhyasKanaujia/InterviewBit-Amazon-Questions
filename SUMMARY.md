@@ -7,7 +7,7 @@
 
 * [✅ Rotate Matrix](01-array/rotate-matrix.md)
 * [✅ Max Sum Contiguous Subarray](01-array/max-sum-contiguous-subarray.md)
-* [❌ Find Duplicate in Array](01-array/find-duplicate-in-array.md)
+* [⭐ Find Duplicate in Array](01-array/find-duplicate-in-array.md)
 * [Merge Intervals](01-array/merge-intervals.md)
 * [Spiral Order Matrix I](01-array/spiral-order-matrix-i.md)
 * [Repeat and Missing Number Array](01-array/repeat-and-missing-number-array.md)
@@ -126,3 +126,4 @@
 ## 💱 10 Hashing
 
 * [⭐ Longest Consecutive Sequence](10-hashing/longest-consecutive-sequence.md)
+* [4 Sum](10-hashing/4-sum.md)
