@@ -126,5 +126,6 @@
 ## 💱 10 Hashing
 
 * [⭐ Longest Consecutive Sequence](10-hashing/longest-consecutive-sequence.md)
-* [4 Sum](10-hashing/4-sum.md)
-* [Anagrams](10-hashing/anagrams.md)
+* [⭐ 4 Sum](10-hashing/4-sum.md)
+* [⭐ Anagrams](10-hashing/anagrams.md)
+* [⭐ Points on the Straight Line](10-hashing/points-on-the-straight-line.md)

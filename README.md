@@ -167,8 +167,8 @@ List of Questions
 
 ### 20th June
 
-* [ ] Fraction
-* [ ] Points on the Straight Line
+* [x] Fraction
+* [x] Points on the Straight Line
 * [ ] 2 Sum
 * [ ] Valid Sudoku
 * [ ] Copy List

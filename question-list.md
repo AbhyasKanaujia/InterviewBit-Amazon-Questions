@@ -208,7 +208,7 @@
 
 94\. [Anagram](10-hashing/anagrams.md)
 
-95\.
+95\. [Points on the Straight Line](10-hashing/points-on-the-straight-line.md)
 
 96\.
 
