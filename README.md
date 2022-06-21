@@ -14,7 +14,7 @@ List of Questions
 
 ### 1st June
 
-* [x] Rotate Matrix
+* [x] Rotate Matrix&#x20;
 * [x] Max Sum Contiguous Sub array
 * [ ] Find Duplicate in Array
 * [x] Merge Intervals
@@ -163,7 +163,19 @@ List of Questions
 * [x] Subset
 * [x] Palindrome Partitioning
 * [x] 4 Sum
-*
+* [x] Anagram
+
+### 20th June
+
+* [ ] Fraction
+* [ ] Points on the Straight Line
+* [ ] 2 Sum
+* [ ] Valid Sudoku
+* [ ] Copy List
+
+### 21st June
+
+* [ ] Longest Substring without Repeat
 
 ### All My Public Notebooks
 

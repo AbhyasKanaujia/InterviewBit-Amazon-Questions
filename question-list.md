@@ -206,7 +206,7 @@
 
 93\. [4 Sum](10-hashing/4-sum.md)
 
-94\.
+94\. [Anagram](10-hashing/anagrams.md)
 
 95\.
 
