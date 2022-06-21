@@ -212,7 +212,7 @@
 
 96\. [2 Sum](10-hashing/2-sum.md)
 
-97\.
+97\. [Valid Sudoku](10-hashing/valid-sudoku.md)
 
 98\.
 

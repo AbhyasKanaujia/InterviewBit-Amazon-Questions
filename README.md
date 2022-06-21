@@ -170,7 +170,7 @@ List of Questions
 * [x] Fraction
 * [x] Points on the Straight Line
 * [x] 2 Sum
-* [ ] Valid Sudoku
+* [x] Valid Sudoku
 * [ ] Copy List
 
 ### 21st June
