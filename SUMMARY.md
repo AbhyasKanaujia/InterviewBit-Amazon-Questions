@@ -129,3 +129,4 @@
 * [⭐ 4 Sum](10-hashing/4-sum.md)
 * [⭐ Anagrams](10-hashing/anagrams.md)
 * [⭐ Points on the Straight Line](10-hashing/points-on-the-straight-line.md)
+* [2 Sum](10-hashing/2-sum.md)

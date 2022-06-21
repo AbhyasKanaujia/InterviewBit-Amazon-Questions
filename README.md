@@ -169,7 +169,7 @@ List of Questions
 
 * [x] Fraction
 * [x] Points on the Straight Line
-* [ ] 2 Sum
+* [x] 2 Sum
 * [ ] Valid Sudoku
 * [ ] Copy List
 

@@ -32,5 +32,7 @@ int Solution::maxPoints(vector<int> &A, vector<int> &B) {
     return res + 1;
 }
 ```
+
+Not Accepted
 {% endtab %}
 {% endtabs %}

@@ -210,7 +210,7 @@
 
 95\. [Points on the Straight Line](10-hashing/points-on-the-straight-line.md)
 
-96\.
+96\. [2 Sum](10-hashing/2-sum.md)
 
 97\.
 
