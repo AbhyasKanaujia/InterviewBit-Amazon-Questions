@@ -7,7 +7,7 @@
 | Approach                                | Time Complexity | Space Complexity |
 | --------------------------------------- | --------------- | ---------------- |
 | <p>Using Merge 2 Sorted </p><p>List</p> | $$O(nk)$$       | $$O(1)$$         |
-| Using k pointers                        | $$O(nk)$$​      | O(1)             |
+| Using k pointers                        | $$O(nk)$$​      | $$O(1)$$         |
 | Link All List and Merge Sort            | $$O(n\log n)$$  | $$O(1)$$         |
 | Divide and Conquer                      | $$O(n\log k)$$​ | $$O(1)$$         |
 |                                         |                 |                  |

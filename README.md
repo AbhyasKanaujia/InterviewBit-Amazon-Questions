@@ -176,17 +176,18 @@ List of Questions
 ### 21st June
 
 * [x] Longest Substring without Repeat
-* [ ] Merge K Sorted Lists
-* [ ] LRU Cache
-* [ ] INVERSIONS
-* [ ] Distinct Numbers in Window
+* [x] Inorder Traversal
+* [ ] Recover Binary Search Tree
+* [ ] Inorder Traversal of Cartesian Tree
+* [ ] Least Common Ancestor
 
 ### 22nd June&#x20;
 
-* [ ] Maximum Sum Combinations
-* [ ] K Largest Elements
-* [ ] Inorder Traversal
-* [ ] Recover Binary Search Tree
+* [ ] Construct Binary Tree From Inorder And Preorder
+* [ ] Flatten Binary Tree to Linked List
+* [ ] Valid Binary Search Tree
+* [ ] Preorder Traversal&#x20;
+* [ ] Binary Tree From Inorder And Postorder
 
 ### All My Public Notebooks
 
