@@ -183,7 +183,7 @@ List of Questions
 
 ### 22nd June&#x20;
 
-* [ ] Construct Binary Tree From Inorder And Preorder
+* [x] Construct Binary Tree From Inorder And Preorder
 * [ ] Flatten Binary Tree to Linked List
 * [ ] Valid Binary Search Tree
 * [ ] Preorder Traversal&#x20;
