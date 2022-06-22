@@ -133,3 +133,4 @@
 * [⭐ Valid Sudoku](10-hashing/valid-sudoku.md)
 * [Copy List](10-hashing/copy-list.md)
 * [Longest Substring Without Repeat](10-hashing/longest-substring-without-repeat.md)
+* [Merge K Sorted Lists](10-hashing/merge-k-sorted-lists.md)
