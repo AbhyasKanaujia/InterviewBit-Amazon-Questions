@@ -236,7 +236,7 @@
 
 106\. [Inorder Traversal of Cartesian Tree](12-tree-data-structure/inorder-traversal-of-cartesian-tree.md)
 
-107\. Least Common Ancestor
+107\. [Least Common Ancestor](12-tree-data-structure/least-common-ancestor.md)
 
 108\. Construct Binary Tree From Inorder And Preorder
 

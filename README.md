@@ -179,7 +179,7 @@ List of Questions
 * [x] Inorder Traversal
 * [x] Recover Binary Search Tree
 * [x] Inorder Traversal of Cartesian Tree
-* [ ] Least Common Ancestor
+* [x] Least Common Ancestor
 
 ### 22nd June&#x20;
 
