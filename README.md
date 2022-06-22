@@ -178,7 +178,7 @@ List of Questions
 * [x] Longest Substring without Repeat
 * [x] Inorder Traversal
 * [x] Recover Binary Search Tree
-* [ ] Inorder Traversal of Cartesian Tree
+* [x] Inorder Traversal of Cartesian Tree
 * [ ] Least Common Ancestor
 
 ### 22nd June&#x20;

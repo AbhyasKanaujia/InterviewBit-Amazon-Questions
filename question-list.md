@@ -234,7 +234,7 @@
 
 105\. [Recover Binary Search Tree](12-tree-data-structure/recover-binary-search-tree.md)
 
-106\. Inorder Traversal of Cartesian Tree
+106\. [Inorder Traversal of Cartesian Tree](12-tree-data-structure/inorder-traversal-of-cartesian-tree.md)
 
 107\. Least Common Ancestor
 

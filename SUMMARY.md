@@ -142,3 +142,4 @@
 
 * [✅ Inorder Traversal](12-tree-data-structure/inorder-traversal.md)
 * [Recover Binary Search Tree](12-tree-data-structure/recover-binary-search-tree.md)
+* [Inorder Traversal of Cartesian Tree](12-tree-data-structure/inorder-traversal-of-cartesian-tree.md)
