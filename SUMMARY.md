@@ -141,7 +141,7 @@
 ## 🌳 12 Tree Data Structure
 
 * [✅ Inorder Traversal](12-tree-data-structure/inorder-traversal.md)
-* [Recover Binary Search Tree](12-tree-data-structure/recover-binary-search-tree.md)
-* [Inorder Traversal of Cartesian Tree](12-tree-data-structure/inorder-traversal-of-cartesian-tree.md)
-* [Least Common Ancestor](12-tree-data-structure/least-common-ancestor.md)
-* [Construct Binary Tree From Inorder And Preorder](12-tree-data-structure/construct-binary-tree-from-inorder-and-preorder.md)
+* [⭐ Recover Binary Search Tree](12-tree-data-structure/recover-binary-search-tree.md)
+* [⭐ Inorder Traversal of Cartesian Tree](12-tree-data-structure/inorder-traversal-of-cartesian-tree.md)
+* [⭐ Least Common Ancestor](12-tree-data-structure/least-common-ancestor.md)
+* [⭐ Construct Binary Tree From Inorder And Preorder](12-tree-data-structure/construct-binary-tree-from-inorder-and-preorder.md)
