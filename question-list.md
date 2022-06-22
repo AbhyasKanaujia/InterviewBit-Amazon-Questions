@@ -232,7 +232,7 @@
 
 104\. [Inorder Traversal](12-tree-data-structure/inorder-traversal.md)
 
-105\. Recover Binary Search Tree
+105\. [Recover Binary Search Tree](12-tree-data-structure/recover-binary-search-tree.md)
 
 106\. Inorder Traversal of Cartesian Tree
 

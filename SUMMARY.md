@@ -141,3 +141,4 @@
 ## 🌳 12 Tree Data Structure
 
 * [✅ Inorder Traversal](12-tree-data-structure/inorder-traversal.md)
+* [Recover Binary Search Tree](12-tree-data-structure/recover-binary-search-tree.md)

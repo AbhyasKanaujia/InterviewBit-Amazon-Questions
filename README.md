@@ -177,7 +177,7 @@ List of Questions
 
 * [x] Longest Substring without Repeat
 * [x] Inorder Traversal
-* [ ] Recover Binary Search Tree
+* [x] Recover Binary Search Tree
 * [ ] Inorder Traversal of Cartesian Tree
 * [ ] Least Common Ancestor
 

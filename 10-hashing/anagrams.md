@@ -1,10 +1,8 @@
-# ⭐ Anagrams
+# Anagrams
 
 {% embed url="https://www.interviewbit.com/problems/anagrams/" %}
 
 ## Using Frequency Map
-
-### Only for +ve Numbers
 
 {% embed url="https://www.youtube.com/watch?v=NNBQik4phMI" %}
 
@@ -37,7 +35,5 @@ vector<vector<int> > Solution::anagrams(const vector<string> &A) {
     return res;
 }
 ```
-
-Not Accepted
 {% endtab %}
 {% endtabs %}
