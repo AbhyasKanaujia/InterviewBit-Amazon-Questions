@@ -1,4 +1,4 @@
-# Least Common Ancestor
+# ⭐ Least Common Ancestor
 
 {% embed url="https://www.interviewbit.com/problems/least-common-ancestor/hints/" %}
 

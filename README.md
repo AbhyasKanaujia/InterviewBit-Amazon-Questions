@@ -185,7 +185,7 @@ List of Questions
 
 * [x] Construct Binary Tree From Inorder And Preorder
 * [x] Flatten Binary Tree to Linked List
-* [ ] Valid Binary Search Tree
+* [x] Valid Binary Search Tree
 * [ ] Preorder Traversal&#x20;
 * [ ] Binary Tree From Inorder And Postorder
 

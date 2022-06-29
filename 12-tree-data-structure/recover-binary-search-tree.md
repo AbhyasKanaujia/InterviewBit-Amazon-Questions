@@ -1,4 +1,4 @@
-# Recover Binary Search Tree
+# ⭐ Recover Binary Search Tree
 
 {% embed url="https://www.interviewbit.com/problems/recover-binary-search-tree/" %}
 

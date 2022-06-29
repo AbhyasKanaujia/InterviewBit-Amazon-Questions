@@ -242,7 +242,7 @@
 
 109\. [Flatten Binary Tree to Linked List](12-tree-data-structure/flatten-binary-tree-to-linked-list.md)
 
-110\. Valid Binary Search Tree
+110\. [Valid Binary Search Tree](12-tree-data-structure/valid-binary-search-tree.md)
 
 111\. Preorder Traversal
 
