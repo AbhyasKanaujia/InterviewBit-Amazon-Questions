@@ -238,9 +238,9 @@
 
 107\. [Least Common Ancestor](12-tree-data-structure/least-common-ancestor.md)
 
-108\. Construct Binary Tree From Inorder And Preorder
+108\. [Construct Binary Tree From Inorder And Preorder](12-tree-data-structure/construct-binary-tree-from-inorder-and-preorder.md)
 
-109\. Flatten Binary Tree to Linked List
+109\. [Flatten Binary Tree to Linked List](12-tree-data-structure/flatten-binary-tree-to-linked-list.md)
 
 110\. Valid Binary Search Tree
 
