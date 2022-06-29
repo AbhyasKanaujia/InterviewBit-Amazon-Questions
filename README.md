@@ -183,74 +183,12 @@ List of Questions
 
 ### 22nd June&#x20;
 
-* [x] Construct Binary Tree From Inorder And Preorder
-* [x] Flatten Binary Tree to Linked List
-* [x] Valid Binary Search Tree
-* [x] Preorder Traversal&#x20;
-* [x] Binary Tree From Inorder And Postorder
-
-### 23rd June
-
+* [ ] Construct Binary Tree From Inorder And Preorder
 * [ ] Flatten Binary Tree to Linked List
 * [ ] Valid Binary Search Tree
-* [ ] Preorder Traversal
+* [ ] Preorder Traversal&#x20;
 * [ ] Binary Tree From Inorder And Postorder
-* [ ] Balanced Binary Tree
-
-### 24th June
-
-* [ ] Sorted Array To Balanced BST
-* [ ] Symmetric Binary Tree
-* [ ] Postorder Traversal
-* [ ] Populate Next Right Pionters Tree
-* [ ] Identical Binary Tree
-
-### 25th June&#x20;
-
-* [ ] BST Iterator
-* [ ] ZigZag Level Order Traversal BT
-* [ ] Path Sum
-* [ ] Next Pointer Binary Tree
-* [ ] Min Depth of Binary Tree
-
-### 26th June
-
-* [ ] Root to Leaf Paths With Sum
-* [ ] Kth Smallest Element&#x20;
-* [ ] 2-Sum Binary Tree
-* [ ] Vertical Order traversal of Binary Tree
-* [ ] Diagonal Traversal
-
-### 27th June
-
-* [ ] Cousins in Binary Tree
-* [ ] Path to Given Node
-* [ ] Remove Half Nodes
-* [ ] Merge Two Bianary Tree
-* [ ] Maximum Edge Removal
-
-### 28th June
-
-* [ ] Burn a Tree
-* [ ] Nodes at Distance K
-* [ ] Vertical Sum of Binary Tree
-* [ ] Covered Uncovered Nodes
-* [ ] Longest Increasing Subsequence
-
-### 29th June
-
-* [ ] Unique Binary Search Tree
-* [ ] Max Product Subarray
-* [ ] Ways to Decode
-* [ ] Best Time to Buy and Sell Stocks II
-* [ ] Best Time to Buy and Sell Stocks III
-
-### 30th June
-
-* [ ] Best Time to Buy and Sell Stocks I
-* [ ] Max Sum Path in Binary Tree
-* [ ] Palindrome Partitioning II
-* [ ] Min Sum Path in Matrix
-* [ ] Min Jumps Array
 
 ### All My Public Notebooks
+
+{% embed url="https://gist.github.com/AbhyasKanaujia/b1aa2c5ba91e8a0b7796fecdbf52023a" %}

@@ -149,3 +149,4 @@
 * [Valid Binary Search Tree](12-tree-data-structure/valid-binary-search-tree.md)
 * [Preorder Traversal](12-tree-data-structure/preorder-traversal.md)
 * [⭐ Binary Tree From Inorder And Postorder](12-tree-data-structure/binary-tree-from-inorder-and-postorder.md)
+* [Balanced Binary Tree](12-tree-data-structure/balanced-binary-tree.md)

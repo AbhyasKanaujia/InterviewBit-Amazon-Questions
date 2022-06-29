@@ -248,7 +248,7 @@
 
 112\. [Binary Tree From Inorder And Postorder](12-tree-data-structure/binary-tree-from-inorder-and-postorder.md)
 
-113\. Balanced Binary Tree
+113\. [Balanced Binary Tree](12-tree-data-structure/balanced-binary-tree.md)
 
 114\. Sorted Array To Balanced BST
 
