@@ -201,7 +201,7 @@ List of Questions
 
 * [x] Sorted Array To Balanced BST
 * [x] Symmetric Binary Tree
-* [ ] Postorder Traversal
+* [x] Postorder Traversal
 * [ ] Populate Next Right Pionters Tree
 * [ ] Identical Binary Tree
 

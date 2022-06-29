@@ -254,7 +254,7 @@
 
 115\. [Symmetric Binary Tree](12-tree-data-structure/symmetric-binary-tree.md)
 
-116\. Postorder Traversal
+116\. [Postorder Traversal](12-tree-data-structure/postorder-traversal.md)
 
 117\. Populate Next Right Pointers Tree
 
