@@ -256,7 +256,7 @@
 
 116\. [Postorder Traversal](12-tree-data-structure/postorder-traversal.md)
 
-117\. Populate Next Right Pointers Tree
+117\. [Populate Next Right Pointers Tree](12-tree-data-structure/populate-next-right-pointers-tree.md)
 
 118\. Identical Binary Tree
 

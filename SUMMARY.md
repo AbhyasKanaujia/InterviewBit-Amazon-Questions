@@ -152,4 +152,5 @@
 * [Balanced Binary Tree](12-tree-data-structure/balanced-binary-tree.md)
 * [✅ Sorted Array To Balanced BST](12-tree-data-structure/sorted-array-to-balanced-bst.md)
 * [Symmetric Binary Tree](12-tree-data-structure/symmetric-binary-tree.md)
-* [Postorder Traversal](12-tree-data-structure/postorder-traversal.md)
+* [✅ Postorder Traversal](12-tree-data-structure/postorder-traversal.md)
+* [⭐ Populate Next Right Pointers Tree](12-tree-data-structure/populate-next-right-pointers-tree.md)
