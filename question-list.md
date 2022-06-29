@@ -258,7 +258,7 @@
 
 117\. [Populate Next Right Pointers Tree](12-tree-data-structure/populate-next-right-pointers-tree.md)
 
-118\. Identical Binary Tree
+118\. [Identical Binary Tree](12-tree-data-structure/identical-binary-trees.md)
 
 119\. BST Iterator
 
