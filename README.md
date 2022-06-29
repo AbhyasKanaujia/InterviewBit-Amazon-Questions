@@ -200,7 +200,7 @@ List of Questions
 ### 24th June
 
 * [x] Sorted Array To Balanced BST
-* [ ] Symmetric Binary Tree
+* [x] Symmetric Binary Tree
 * [ ] Postorder Traversal
 * [ ] Populate Next Right Pionters Tree
 * [ ] Identical Binary Tree

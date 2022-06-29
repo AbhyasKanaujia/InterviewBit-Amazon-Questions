@@ -151,3 +151,4 @@
 * [⭐ Binary Tree From Inorder And Postorder](12-tree-data-structure/binary-tree-from-inorder-and-postorder.md)
 * [Balanced Binary Tree](12-tree-data-structure/balanced-binary-tree.md)
 * [✅ Sorted Array To Balanced BST](12-tree-data-structure/sorted-array-to-balanced-bst.md)
+* [Symmetric Binary Tree](12-tree-data-structure/symmetric-binary-tree.md)

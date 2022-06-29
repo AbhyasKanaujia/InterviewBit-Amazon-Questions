@@ -252,7 +252,7 @@
 
 114\. [Sorted Array To Balanced BST](12-tree-data-structure/sorted-array-to-balanced-bst.md)
 
-115\. Symmetric Binary Tree
+115\. [Symmetric Binary Tree](12-tree-data-structure/symmetric-binary-tree.md)
 
 116\. Postorder Traversal
 
