@@ -147,6 +147,7 @@
 * [⭐ Construct Binary Tree From Inorder And Preorder](12-tree-data-structure/construct-binary-tree-from-inorder-and-preorder.md)
 * [Flatten Binary Tree to Linked List](12-tree-data-structure/flatten-binary-tree-to-linked-list.md)
 * [Valid Binary Search Tree](12-tree-data-structure/valid-binary-search-tree.md)
-* [Preorder Traversal](12-tree-data-structure/preorder-traversal.md)
+* [✅ Preorder Traversal](12-tree-data-structure/preorder-traversal.md)
 * [⭐ Binary Tree From Inorder And Postorder](12-tree-data-structure/binary-tree-from-inorder-and-postorder.md)
 * [Balanced Binary Tree](12-tree-data-structure/balanced-binary-tree.md)
+* [✅ Sorted Array To Balanced BST](12-tree-data-structure/sorted-array-to-balanced-bst.md)

@@ -250,7 +250,7 @@
 
 113\. [Balanced Binary Tree](12-tree-data-structure/balanced-binary-tree.md)
 
-114\. Sorted Array To Balanced BST
+114\. [Sorted Array To Balanced BST](12-tree-data-structure/sorted-array-to-balanced-bst.md)
 
 115\. Symmetric Binary Tree
 
