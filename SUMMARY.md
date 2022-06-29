@@ -148,3 +148,4 @@
 * [Flatten Binary Tree to Linked List](12-tree-data-structure/flatten-binary-tree-to-linked-list.md)
 * [Valid Binary Search Tree](12-tree-data-structure/valid-binary-search-tree.md)
 * [Preorder Traversal](12-tree-data-structure/preorder-traversal.md)
+* [⭐ Binary Tree From Inorder And Postorder](12-tree-data-structure/binary-tree-from-inorder-and-postorder.md)

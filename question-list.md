@@ -246,7 +246,7 @@
 
 111\. [Preorder Traversal](12-tree-data-structure/preorder-traversal.md)
 
-112\. Binary Tree From Inorder And Postorder
+112\. [Binary Tree From Inorder And Postorder](12-tree-data-structure/binary-tree-from-inorder-and-postorder.md)
 
 113\. Balanced Binary Tree
 

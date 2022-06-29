@@ -187,7 +187,7 @@ List of Questions
 * [x] Flatten Binary Tree to Linked List
 * [x] Valid Binary Search Tree
 * [x] Preorder Traversal&#x20;
-* [ ] Binary Tree From Inorder And Postorder
+* [x] Binary Tree From Inorder And Postorder
 
 ### 23rd June
 
