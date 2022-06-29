@@ -1,4 +1,4 @@
-# ⭐ Container With Most Water
+# Container With Most Water
 
 {% embed url="https://www.interviewbit.com/problems/container-with-most-water/" %}
 

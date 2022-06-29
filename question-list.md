@@ -244,7 +244,7 @@
 
 110\. [Valid Binary Search Tree](12-tree-data-structure/valid-binary-search-tree.md)
 
-111\. Preorder Traversal
+111\. [Preorder Traversal](12-tree-data-structure/preorder-traversal.md)
 
 112\. Binary Tree From Inorder And Postorder
 
