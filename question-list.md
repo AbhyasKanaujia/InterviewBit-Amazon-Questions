@@ -102,7 +102,7 @@
 
 46\. [Bulls and Cows](string/bulls-and-cows.md)
 
-### it Manipulation
+### Bit Manipulation
 
 47\. [Reverse Bits](string/reverse-bits.md)
 

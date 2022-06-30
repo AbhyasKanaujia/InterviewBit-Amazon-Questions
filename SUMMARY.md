@@ -155,3 +155,4 @@
 * [✅ Postorder Traversal](12-tree-data-structure/postorder-traversal.md)
 * [⭐ Populate Next Right Pointers Tree](12-tree-data-structure/populate-next-right-pointers-tree.md)
 * [Identical Binary Trees](12-tree-data-structure/identical-binary-trees.md)
+* [BST Iterator](12-tree-data-structure/bst-iterator.md)
