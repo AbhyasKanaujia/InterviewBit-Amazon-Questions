@@ -260,9 +260,9 @@
 
 118\. [Identical Binary Tree](12-tree-data-structure/identical-binary-trees.md)
 
-119\. BST Iterator
+119\. [BST Iterator](12-tree-data-structure/bst-iterator.md)
 
-120\. ZigZag Level Order Traversal BT
+120\. [ZigZag Level Order Traversal BT](12-tree-data-structure/zigzag-level-order-traversal-bt.md)
 
 121\. Path Sum
 

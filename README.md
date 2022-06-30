@@ -207,8 +207,8 @@ List of Questions
 
 ### 25th June&#x20;
 
-* [ ] BST Iterator
-* [ ] ZigZag Level Order Traversal BT
+* [x] BST Iterator
+* [x] ZigZag Level Order Traversal BT
 * [ ] Path Sum
 * [ ] Next Pointer Binary Tree
 * [ ] Min Depth of Binary Tree
