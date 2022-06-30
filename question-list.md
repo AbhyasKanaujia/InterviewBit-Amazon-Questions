@@ -264,7 +264,7 @@
 
 120\. [ZigZag Level Order Traversal BT](12-tree-data-structure/zigzag-level-order-traversal-bt.md)
 
-121\. Path Sum
+121\. [Path Sum](12-tree-data-structure/path-sum.md)
 
 122\. Next Pointer Binary Tree
 

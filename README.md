@@ -209,7 +209,7 @@ List of Questions
 
 * [x] BST Iterator
 * [x] ZigZag Level Order Traversal BT
-* [ ] Path Sum
+* [x] Path Sum
 * [ ] Next Pointer Binary Tree
 * [ ] Min Depth of Binary Tree
 
