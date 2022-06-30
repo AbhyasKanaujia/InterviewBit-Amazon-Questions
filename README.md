@@ -211,7 +211,7 @@ List of Questions
 * [x] ZigZag Level Order Traversal BT
 * [x] Path Sum
 * [x] Next Pointer Binary Tree
-* [ ] Min Depth of Binary Tree
+* [x] Min Depth of Binary Tree
 
 ### 26th June
 

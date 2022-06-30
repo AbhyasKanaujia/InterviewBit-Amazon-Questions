@@ -268,7 +268,7 @@
 
 122\. [Next Pointer Binary Tree](12-tree-data-structure/next-pointer-binary-tree.md)
 
-123\. Min Depth of Binary Tree
+123\. [Min Depth of Binary Tree](12-tree-data-structure/min-depth-of-binary-tree.md)
 
 124\. Root to Leaf Path with Sum
 
