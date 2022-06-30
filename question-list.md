@@ -270,7 +270,7 @@
 
 123\. [Min Depth of Binary Tree](12-tree-data-structure/min-depth-of-binary-tree.md)
 
-124\. Root to Leaf Path with Sum
+124\. [Root to Leaf Path with Sum](12-tree-data-structure/root-to-leaf-paths-with-sum.md)
 
 125\. Kth Smallest Element in Tree
 

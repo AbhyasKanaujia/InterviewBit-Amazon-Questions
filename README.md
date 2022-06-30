@@ -215,7 +215,7 @@ List of Questions
 
 ### 26th June
 
-* [ ] Root to Leaf Paths With Sum
+* [x] Root to Leaf Paths With Sum
 * [ ] Kth Smallest Element&#x20;
 * [ ] 2-Sum Binary Tree
 * [ ] Vertical Order traversal of Binary Tree
