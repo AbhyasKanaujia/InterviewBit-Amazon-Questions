@@ -158,3 +158,4 @@
 * [BST Iterator](12-tree-data-structure/bst-iterator.md)
 * [ZigZag Level Order Traversal BT](12-tree-data-structure/zigzag-level-order-traversal-bt.md)
 * [Path Sum](12-tree-data-structure/path-sum.md)
+* [Next Pointer Binary Tree](12-tree-data-structure/next-pointer-binary-tree.md)

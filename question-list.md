@@ -266,7 +266,7 @@
 
 121\. [Path Sum](12-tree-data-structure/path-sum.md)
 
-122\. Next Pointer Binary Tree
+122\. [Next Pointer Binary Tree](12-tree-data-structure/next-pointer-binary-tree.md)
 
 123\. Min Depth of Binary Tree
 
