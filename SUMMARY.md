@@ -172,3 +172,4 @@
 * [⭐ Burn a Tree](12-tree-data-structure/burn-a-tree.md)
 * [Nodes at Distance K](12-tree-data-structure/nodes-at-distance-k.md)
 * [Vertical Sum of a Binary Tree](12-tree-data-structure/vertical-sum-of-a-binary-tree.md)
+* [Covered / Uncovered Nodes](12-tree-data-structure/covered-uncovered-nodes.md)
