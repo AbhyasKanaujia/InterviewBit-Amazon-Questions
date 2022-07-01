@@ -232,7 +232,7 @@ List of Questions
 ### 28th June
 
 * [x] Burn a Tree
-* [x] Nodes at Distance K
+* [ ] Nodes at Distance K
 * [ ] Vertical Sum of Binary Tree
 * [ ] Covered Uncovered Nodes
 * [ ] Longest Increasing Subsequence

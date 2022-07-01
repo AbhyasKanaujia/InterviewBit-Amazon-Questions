@@ -294,6 +294,6 @@
 
 135\. [Nodes at Distance K](12-tree-data-structure/nodes-at-distance-k.md)
 
-136\. Vertical Sum of a Binary Tree
+136\. [Vertical Sum of a Binary Tree](12-tree-data-structure/vertical-sum-of-a-binary-tree.md)
 
 137\. Covered/Uncovered Nodes
