@@ -286,7 +286,7 @@
 
 131\. [Remove Half Nodes](12-tree-data-structure/remove-half-nodes.md)
 
-132\. Merge Two Binary Tree
+132\. [Merge Two Binary Tree](12-tree-data-structure/merge-two-binary-tree.md)
 
 133\. Maximum Edge Removal&#x20;
 
