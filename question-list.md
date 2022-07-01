@@ -290,7 +290,7 @@
 
 133\. Maximum Edge Removal&#x20;
 
-134\. Burn a Tree
+134\. [Burn a Tree](12-tree-data-structure/burn-a-tree.md)
 
 135\. Nodes at Distance K
 

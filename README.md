@@ -231,7 +231,7 @@ List of Questions
 
 ### 28th June
 
-* [ ] Burn a Tree
+* [x] Burn a Tree
 * [ ] Nodes at Distance K
 * [ ] Vertical Sum of Binary Tree
 * [ ] Covered Uncovered Nodes
