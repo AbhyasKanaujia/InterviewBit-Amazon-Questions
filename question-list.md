@@ -282,7 +282,7 @@
 
 129\. [Cousins in Binary Tree](12-tree-data-structure/cousins-in-binary-tree.md)
 
-130\. Path to Given Node
+130\. [Path to Given Node](12-tree-data-structure/path-to-given-node.md)
 
 131\. Remove Half Nodes
 

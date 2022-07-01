@@ -224,7 +224,7 @@ List of Questions
 ### 27th June
 
 * [x] Cousins in Binary Tree
-* [ ] Path to Given Node
+* [x] Path to Given Node
 * [ ] Remove Half Nodes
 * [ ] Merge Two Bianary Tree
 * [ ] Maximum Edge Removal
