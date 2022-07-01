@@ -217,7 +217,7 @@ List of Questions
 
 * [x] Root to Leaf Paths With Sum
 * [x] Kth Smallest Element&#x20;
-* [ ] 2-Sum Binary Tree
+* [x] 2-Sum Binary Tree
 * [ ] Vertical Order traversal of Binary Tree
 * [ ] Diagonal Traversal
 

@@ -1,4 +1,4 @@
-# Kth Smallest Element in Tree
+# ⭐ Kth Smallest Element in Tree
 
 {% embed url="https://www.interviewbit.com/problems/kth-smallest-element-in-tree/" %}
 

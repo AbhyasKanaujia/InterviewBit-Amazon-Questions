@@ -274,7 +274,7 @@
 
 125\. [Kth Smallest Element in Tree](12-tree-data-structure/kth-smallest-element-in-tree.md)
 
-126\. 2-Sum Binary Tree
+126\. [2-Sum Binary Tree](12-tree-data-structure/2-sum-binary-tree.md)
 
 127\. Vertical Order Traversal of Binary Tree
 
