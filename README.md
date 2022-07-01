@@ -216,14 +216,14 @@ List of Questions
 ### 26th June
 
 * [x] Root to Leaf Paths With Sum
-* [ ] Kth Smallest Element&#x20;
-* [ ] 2-Sum Binary Tree
-* [ ] Vertical Order traversal of Binary Tree
-* [ ] Diagonal Traversal
+* [x] Kth Smallest Element&#x20;
+* [x] 2-Sum Binary Tree
+* [x] Vertical Order traversal of Binary Tree
+* [x] Diagonal Traversal
 
 ### 27th June
 
-* [ ] Cousins in Binary Tree
+* [x] Cousins in Binary Tree
 * [ ] Path to Given Node
 * [ ] Remove Half Nodes
 * [ ] Merge Two Bianary Tree

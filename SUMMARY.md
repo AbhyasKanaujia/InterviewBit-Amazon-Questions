@@ -165,3 +165,4 @@
 * [⭐ 2-Sum Binary Tree](12-tree-data-structure/2-sum-binary-tree.md)
 * [Vertical Order traversal of Binary Tree](12-tree-data-structure/vertical-order-traversal-of-binary-tree.md)
 * [⭐ Diagonal Traversal](12-tree-data-structure/diagonal-traversal.md)
+* [Cousins in Binary Tree](12-tree-data-structure/cousins-in-binary-tree.md)

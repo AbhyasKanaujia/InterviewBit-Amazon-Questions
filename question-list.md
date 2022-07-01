@@ -272,15 +272,15 @@
 
 124\. [Root to Leaf Path with Sum](12-tree-data-structure/root-to-leaf-paths-with-sum.md)
 
-125\. Kth Smallest Element in Tree
+125\. [Kth Smallest Element in Tree](12-tree-data-structure/kth-smallest-element-in-tree.md)
 
-126\. 2-Sum Binary Tree
+126\. [2-Sum Binary Tree](12-tree-data-structure/2-sum-binary-tree.md)
 
-127\. Vertical Order Traversal of Binary Tree
+127\. [Vertical Order Traversal of Binary Tree](12-tree-data-structure/vertical-order-traversal-of-binary-tree.md)
 
-128\. Diagonal Traversal
+128\. [Diagonal Traversal](12-tree-data-structure/diagonal-traversal.md)
 
-129\. Cousins in Binary Tree
+129\. [Cousins in Binary Tree](12-tree-data-structure/cousins-in-binary-tree.md)
 
 130\. Path to Given Node
 
