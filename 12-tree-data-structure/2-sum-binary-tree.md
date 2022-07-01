@@ -1,4 +1,4 @@
-# 2-Sum Binary Tree
+# ⭐ 2-Sum Binary Tree
 
 {% embed url="https://www.interviewbit.com/problems/2sum-binary-tree/" %}
 

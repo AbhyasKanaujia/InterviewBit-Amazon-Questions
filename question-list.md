@@ -276,7 +276,7 @@
 
 126\. [2-Sum Binary Tree](12-tree-data-structure/2-sum-binary-tree.md)
 
-127\. Vertical Order Traversal of Binary Tree
+127\. [Vertical Order Traversal of Binary Tree](12-tree-data-structure/vertical-order-traversal-of-binary-tree.md)
 
 128\. Diagonal Traversal
 

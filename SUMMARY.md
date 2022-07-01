@@ -162,4 +162,5 @@
 * [Min Depth of Binary Tree](12-tree-data-structure/min-depth-of-binary-tree.md)
 * [Root to Leaf Paths With Sum](12-tree-data-structure/root-to-leaf-paths-with-sum.md)
 * [⭐ Kth Smallest Element in Tree](12-tree-data-structure/kth-smallest-element-in-tree.md)
-* [2-Sum Binary Tree](12-tree-data-structure/2-sum-binary-tree.md)
+* [⭐ 2-Sum Binary Tree](12-tree-data-structure/2-sum-binary-tree.md)
+* [Vertical Order traversal of Binary Tree](12-tree-data-structure/vertical-order-traversal-of-binary-tree.md)
