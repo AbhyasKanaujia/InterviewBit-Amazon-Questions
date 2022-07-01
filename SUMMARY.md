@@ -167,3 +167,4 @@
 * [⭐ Diagonal Traversal](12-tree-data-structure/diagonal-traversal.md)
 * [Cousins in Binary Tree](12-tree-data-structure/cousins-in-binary-tree.md)
 * [Path to Given Node](12-tree-data-structure/path-to-given-node.md)
+* [Remove Half Nodes](12-tree-data-structure/remove-half-nodes.md)

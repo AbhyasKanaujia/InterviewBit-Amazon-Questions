@@ -225,7 +225,7 @@ List of Questions
 
 * [x] Cousins in Binary Tree
 * [x] Path to Given Node
-* [ ] Remove Half Nodes
+* [x] Remove Half Nodes
 * [ ] Merge Two Bianary Tree
 * [ ] Maximum Edge Removal
 

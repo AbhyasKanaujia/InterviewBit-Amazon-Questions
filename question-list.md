@@ -284,7 +284,7 @@
 
 130\. [Path to Given Node](12-tree-data-structure/path-to-given-node.md)
 
-131\. Remove Half Nodes
+131\. [Remove Half Nodes](12-tree-data-structure/remove-half-nodes.md)
 
 132\. Merge Two Binary Tree
 
