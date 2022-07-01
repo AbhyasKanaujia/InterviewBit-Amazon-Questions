@@ -272,7 +272,7 @@
 
 124\. [Root to Leaf Path with Sum](12-tree-data-structure/root-to-leaf-paths-with-sum.md)
 
-125\. Kth Smallest Element in Tree
+125\. [Kth Smallest Element in Tree](12-tree-data-structure/kth-smallest-element-in-tree.md)
 
 126\. 2-Sum Binary Tree
 
