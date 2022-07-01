@@ -2,6 +2,8 @@
 
 {% embed url="https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/" %}
 
+## Using map of level to vector of nodes
+
 ```cpp
 /**
  * Definition for binary tree
@@ -52,4 +54,4 @@ vector<vector<int> > Solution::verticalOrderTraversal(TreeNode* A) {
 
 Time Complexity: $$O(n)$$​
 
-Space Complexity: $$O(n)$$​
+Space Complexity: $$O(n)$$
