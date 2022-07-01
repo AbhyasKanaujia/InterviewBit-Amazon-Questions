@@ -292,7 +292,7 @@
 
 134\. [Burn a Tree](12-tree-data-structure/burn-a-tree.md)
 
-135\. Nodes at Distance K
+135\. [Nodes at Distance K](12-tree-data-structure/nodes-at-distance-k.md)
 
 136\. Vertical Sum of a Binary Tree
 

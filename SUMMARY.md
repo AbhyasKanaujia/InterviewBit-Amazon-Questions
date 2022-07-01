@@ -170,3 +170,4 @@
 * [Remove Half Nodes](12-tree-data-structure/remove-half-nodes.md)
 * [Merge two Binary Tree](12-tree-data-structure/merge-two-binary-tree.md)
 * [⭐ Burn a Tree](12-tree-data-structure/burn-a-tree.md)
+* [Nodes at Distance K](12-tree-data-structure/nodes-at-distance-k.md)
