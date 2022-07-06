@@ -239,7 +239,7 @@ List of Questions
 
 ### 29th June
 
-* [ ] Word Search Board
+* [x] Word Search Board
 * [ ] Stepping Numbers
 * [ ] Black Shapes
 * [ ] Knight On Chess Board
