@@ -36,7 +36,7 @@ bool isBounded(int i, int j, int dir, int rowCount, int colCount) {
 * @return true if the word was found string from (i, j). 
 *
 */
-bool search(vector<string> &A, int i, int j, string &B, int index, vector<vector<bool>> &used) {
+bool search(vector<string> &A, int i, int j, string &B, int index) {
     // Since string is 0 indexed, an attempt to search the nth character 
     // means that all the previous characters were found.
     // i.e. the word search has successfully completed. return true.
@@ -46,17 +46,17 @@ bool search(vector<string> &A, int i, int j, string &B, int index, vector<vector
     // if(i, j) th character is not B[index] then there is no match. return false
     if(A[i][j] != B[index])
         return false;        
-
+    
+    // flag that assumes that search will fail
+    bool found = false;
     // combine xDelta and yDelta to current i, j and attempt to move in 4 directions
     for(int dir = 0; dir < 4; dir++) 
         // make sure the search is being done in bound
         if(isBounded(i, j, dir, A.size(), A[0].size()))
-            if(search(A, i + xDelta[dir], j + yDelta[dir], B, index + 1, used)) 
-                // if found then reutrn true
+            if(search(A, i + xDelta[dir], j + yDelta[dir], B, index + 1)) 
+                // if found then change flag and don't search further
                 return true;
-         
-    // at this point all searches starting from i, j has completed and the 
-    // string was not found. return false. 
+            
     return false;
 }
 
@@ -69,13 +69,14 @@ int Solution::exist(vector<string> &A, string B) {
     // search for the word from this point on. If found return true.
     for(int i = 0; i < A.size(); i++)
         for(int j = 0; j < A[0].size(); j++)
-            if(A[i][j] == firstLetter && search(A, i, j, B, index, used))
+            if(A[i][j] == firstLetter && search(A, i, j, B, index))
                 return true;
                 
     // if after trying out every possible starting point and attempting to find the word
     // it was still not found then it is not there. Return false.
     return false;
 }
+
 ```
 
 <details>
@@ -95,20 +96,19 @@ bool isBounded(int i, int j, int dir, int rowCount, int colCount) {
     return true;
 }
 
-bool search(vector<string> &A, int i, int j, string &B, 
-            int index, vector<vector<bool>> &used) 
-            {
+bool search(vector<string> &A, int i, int j, string &B, int index) {
     if(index == B.size())
         return true;
         
     if(A[i][j] != B[index])
         return false;        
-
+    
+    bool found = false;
     for(int dir = 0; dir < 4; dir++) 
         if(isBounded(i, j, dir, A.size(), A[0].size()))
-            if(search(A, i + xDelta[dir], j + yDelta[dir], B, 
-                        index + 1, used)) 
+            if(search(A, i + xDelta[dir], j + yDelta[dir], B, index + 1)) 
                 return true;
+            
     return false;
 }
 
@@ -117,12 +117,11 @@ int Solution::exist(vector<string> &A, string B) {
     int firstLetter = B[index];
     for(int i = 0; i < A.size(); i++)
         for(int j = 0; j < A[0].size(); j++)
-            if(A[i][j] == firstLetter && search(A, i, j, B, index, used))
+            if(A[i][j] == firstLetter && search(A, i, j, B, index))
                 return true;
                 
     return false;
 }
-
 ```
 
 </details>

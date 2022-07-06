@@ -235,26 +235,22 @@ List of Questions
 * [x] Nodes at Distance K
 * [x] Vertical Sum of Binary Tree
 * [x] Covered Uncovered Nodes
-* [x] Clone Graph
+* [ ] Longest Increasing Subsequence
 
 ### 29th June
 
-* [x] Word Search Board
-* [ ] Stepping Numbers
-* [ ] Black Shapes
-* [ ] Knight On Chess Board
-* [ ] smallest Multiple with 0 and 1
+* [ ] Unique Binary Search Tree
+* [ ] Max Product Subarray
+* [ ] Ways to Decode
+* [ ] Best Time to Buy and Sell Stocks II
+* [ ] Best Time to Buy and Sell Stocks III
 
 ### 30th June
 
-* [ ] Commutable Islands
-* [ ] Possibility of finishing all courses given prerequisites
-* [ ] Valid Path
-* [ ] Cycle in Directed Graph
-* [ ] Cycle in Undirected Graph
+* [ ] Best Time to Buy and Sell Stocks I
+* [ ] Max Sum Path in Binary Tree
+* [ ] Palindrome Partitioning II
+* [ ] Min Sum Path in Matrix
+* [ ] Min Jumps Array
 
-### 1st July
-
-* [ ] Snake Ladder Problem!
-* [ ] Region in BinaryMatrix
-* [ ] Path in Matrix
+### All My Public Notebooks
