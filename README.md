@@ -241,7 +241,7 @@ List of Questions
 
 * [x] Word Search Board
 * [x] Stepping Numbers
-* [ ] Black Shapes
+* [x] Black Shapes
 * [ ] Knight On Chess Board
 * [ ] smallest Multiple with 0 and 1
 

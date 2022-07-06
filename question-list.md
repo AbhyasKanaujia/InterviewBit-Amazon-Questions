@@ -305,3 +305,5 @@
 139\. [Word Search Board](<15 Graph/word-search-board.md>)
 
 140\. [Stepping Numbers](<15 Graph/stepping-numbers.md>)
+
+141\. [Black Shapes](<15 Graph/black-shapes.md>)

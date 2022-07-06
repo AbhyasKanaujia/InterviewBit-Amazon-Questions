@@ -187,3 +187,4 @@
 * [Clone Graph](<15 Graph/clone-graph.md>)
 * [Word Search Board](<15 Graph/word-search-board.md>)
 * [⭐ Stepping Numbers](<15 Graph/stepping-numbers.md>)
+* [Black Shapes](<15 Graph/black-shapes.md>)
