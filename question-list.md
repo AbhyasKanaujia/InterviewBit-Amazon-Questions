@@ -307,3 +307,5 @@
 140\. [Stepping Numbers](<15 Graph/stepping-numbers.md>)
 
 141\. [Black Shapes](<15 Graph/black-shapes.md>)
+
+142\. [Knight On Chess Board](<15 Graph/knight-on-chess-board.md>)

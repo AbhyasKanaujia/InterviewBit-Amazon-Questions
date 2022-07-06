@@ -242,7 +242,7 @@ List of Questions
 * [x] Word Search Board
 * [x] Stepping Numbers
 * [x] Black Shapes
-* [ ] Knight On Chess Board
+* [x] Knight On Chess Board
 * [ ] smallest Multiple with 0 and 1
 
 ### 30th June
