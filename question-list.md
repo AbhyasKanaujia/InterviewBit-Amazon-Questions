@@ -309,3 +309,7 @@
 141\. [Black Shapes](<15 Graph/black-shapes.md>)
 
 142\. [Knight On Chess Board](<15 Graph/knight-on-chess-board.md>)
+
+143\. Smallest Multiple With 0 and 1
+
+144\. [Commutable Islands](<15 Graph/commutable-islands.md>)

@@ -247,7 +247,7 @@ List of Questions
 
 ### 30th June
 
-* [ ] Commutable Islands
+* [x] Commutable Islands
 * [ ] Possibility of finishing all courses given prerequisites
 * [ ] Valid Path
 * [ ] Cycle in Directed Graph

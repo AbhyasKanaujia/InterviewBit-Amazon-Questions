@@ -189,3 +189,5 @@
 * [⭐ Stepping Numbers](<15 Graph/stepping-numbers.md>)
 * [Black Shapes](<15 Graph/black-shapes.md>)
 * [Knight On Chess Board](<15 Graph/knight-on-chess-board.md>)
+* [❌ Smallest Multiple With 0 and 1](<15 Graph/smallest-multiple-with-0-and-1.md>)
+* [Commutable Islands](<15 Graph/commutable-islands.md>)
