@@ -318,4 +318,6 @@
 
 146\. [Valid Path](<15 Graph/valid-path.md>)
 
-147\. Cycle in Directed Graph
+147\. [Cycle in Directed Graph](<15 Graph/cycle-in-directed-graph.md>)
+
+148\. [Cycle in Undirected Graph](<15 Graph/cycle-in-undirected-graph.md>)
