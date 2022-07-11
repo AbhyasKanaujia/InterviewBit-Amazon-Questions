@@ -313,3 +313,5 @@
 143\. Smallest Multiple With 0 and 1
 
 144\. [Commutable Islands](<15 Graph/commutable-islands.md>)
+
+145\. [Possibility of finishing all courses given pre-requisites](<15 Graph/possibility-of-finishing-all-courses-given-pre-requisites.md>)
