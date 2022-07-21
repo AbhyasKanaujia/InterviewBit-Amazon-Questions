@@ -180,8 +180,9 @@
 
 ## 14 Greedy Algorithm <a href="#14 Greedy Algorithm" id="14 Greedy Algorithm"></a>
 
-* [Gas Station](<14 Greedy Algorithm/gas-station.md>)
-* [Majority Element](<14 Greedy Algorithm/page-2.md>)
+* [⭐ Gas Station](<14 Greedy Algorithm/gas-station.md>)
+* [⭐ Majority Element](<14 Greedy Algorithm/page-2.md>)
+* [⭐ Distribute Candy](<14 Greedy Algorithm/distribute-candy.md>)
 
 ## 👨👩👧👦 15 Graph <a href="#15 Graph" id="15 Graph"></a>
 

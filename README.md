@@ -256,3 +256,4 @@ List of Questions
 ### 1st June
 
 * [x] Gas Station
+* [x] Distribute Candy
