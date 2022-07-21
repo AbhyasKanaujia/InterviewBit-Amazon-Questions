@@ -259,3 +259,4 @@ List of Questions
 * [x] Distribute Candy
 * [x] Highest Product
 * [x] Assign Mice to Holes
+* [x] Meeting rooms

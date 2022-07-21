@@ -185,6 +185,7 @@
 * [⭐ Distribute Candy](<14 Greedy Algorithm/distribute-candy.md>)
 * [⭐ Highest Product](<14 Greedy Algorithm/highest-product.md>)
 * [Assign Mice to Holes](<14 Greedy Algorithm/assign-mice-to-holes.md>)
+* [⭐ Meeting rooms](<14 Greedy Algorithm/meeting-rooms.md>)
 
 ## 👨👩👧👦 15 Graph <a href="#15 Graph" id="15 Graph"></a>
 
