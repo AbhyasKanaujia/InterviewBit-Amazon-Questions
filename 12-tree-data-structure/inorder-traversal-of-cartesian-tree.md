@@ -1,4 +1,4 @@
-# Inorder Traversal of Cartesian Tree
+# ⭐ Inorder Traversal of Cartesian Tree
 
 {% embed url="https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/" %}
 

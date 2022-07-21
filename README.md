@@ -251,10 +251,8 @@ List of Questions
 * [x] Possibility of finishing all courses given prerequisites
 * [ ] Valid Path
 * [x] Cycle in Directed Graph
-* [ ] Cycle in Undirected Graph
+* [x] Majority Element
 
-### 1st July
+### 1st June
 
-* [ ] Snake Ladder Problem!
-* [ ] Region in BinaryMatrix
-* [ ] Path in Matrix
+*

@@ -180,7 +180,7 @@
 
 ## 14 Greedy Algorithm <a href="#14 Greedy Algorithm" id="14 Greedy Algorithm"></a>
 
-* [Page 2](<14 Greedy Algorithm/page-2.md>)
+* [Majority Element](<14 Greedy Algorithm/majority-element.md>)
 
 ## 👨👩👧👦 15 Graph <a href="#15 Graph" id="15 Graph"></a>
 

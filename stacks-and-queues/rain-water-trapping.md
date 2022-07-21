@@ -1,4 +1,4 @@
-# Rain Water Trapping
+# ⭐ Rain Water Trapping
 
 {% embed url="https://www.interviewbit.com/problems/rain-water-trapped/" %}
 

@@ -321,3 +321,7 @@
 147\. [Cycle in Directed Graph](<15 Graph/cycle-in-directed-graph.md>)
 
 148\. [Cycle in Undirected Graph](<15 Graph/cycle-in-undirected-graph.md>)
+
+## Greedy
+
+149\. [Majority Element](<14 Greedy Algorithm/majority-element.md>)
