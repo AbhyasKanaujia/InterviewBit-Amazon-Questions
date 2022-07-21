@@ -257,3 +257,5 @@ List of Questions
 
 * [x] Gas Station
 * [x] Distribute Candy
+* [x] Highest Product
+* [x] Assign Mice to Holes

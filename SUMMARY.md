@@ -183,6 +183,8 @@
 * [⭐ Gas Station](<14 Greedy Algorithm/gas-station.md>)
 * [⭐ Majority Element](<14 Greedy Algorithm/page-2.md>)
 * [⭐ Distribute Candy](<14 Greedy Algorithm/distribute-candy.md>)
+* [⭐ Highest Product](<14 Greedy Algorithm/highest-product.md>)
+* [Assign Mice to Holes](<14 Greedy Algorithm/assign-mice-to-holes.md>)
 
 ## 👨👩👧👦 15 Graph <a href="#15 Graph" id="15 Graph"></a>
 

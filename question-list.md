@@ -329,3 +329,7 @@
 150\. [Gas Station](<14 Greedy Algorithm/gas-station.md>)
 
 151\. [Distribute Candy](<14 Greedy Algorithm/distribute-candy.md>)
+
+152\. [Highest Product](<14 Greedy Algorithm/highest-product.md>)
+
+153\. [Assign Mice to Holes](<14 Greedy Algorithm/assign-mice-to-holes.md>)
