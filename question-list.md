@@ -324,4 +324,4 @@
 
 ## Greedy
 
-149\. [Majority Element](<14 Greedy Algorithm/majority-element.md>)
+149\. [Majority Element](<14 Greedy Algorithm/page-2.md>)
