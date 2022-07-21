@@ -325,3 +325,5 @@
 ## Greedy
 
 149\. [Majority Element](<14 Greedy Algorithm/page-2.md>)
+
+150\. [Gas Station](<14 Greedy Algorithm/gas-station.md>)

@@ -255,4 +255,4 @@ List of Questions
 
 ### 1st June
 
-*
+* [x] Gas Station
