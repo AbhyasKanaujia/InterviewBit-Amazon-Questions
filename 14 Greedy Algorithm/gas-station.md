@@ -1,4 +1,4 @@
-# Gas Station
+# ⭐ Gas Station
 
 {% embed url="https://www.interviewbit.com/problems/gas-station/hints/" %}
 

@@ -265,6 +265,6 @@ List of Questions
 
 * [x] LRU Cache
 * [x] Inversions&#x20;
-* [ ] Distinct Numbers in window&#x20;
+* [x] Distinct Numbers in window&#x20;
 * [ ] Maximum Sum Combinations
 * [ ] K Largest Elements

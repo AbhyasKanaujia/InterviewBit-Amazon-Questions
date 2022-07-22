@@ -224,7 +224,7 @@
 
 101\. [INVERSIONS](11-heaps-and-maps/inversions.md)
 
-102\. Distinct Numbers in Window
+102\. [Distinct Numbers in Window](11-heaps-and-maps/distinct-numbers-in-window.md)
 
 103\. K Largest Elements
 
