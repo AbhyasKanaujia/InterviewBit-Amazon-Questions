@@ -138,6 +138,7 @@
 
 * [Merge K Sorted Lists](11-heaps-and-maps/merge-k-sorted-lists.md)
 * [⭐ LRU Cache](11-heaps-and-maps/lru-cache.md)
+* [⭐ Inversions](11-heaps-and-maps/inversions.md)
 
 ## 🌳 12 Tree Data Structure
 

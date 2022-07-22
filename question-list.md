@@ -222,7 +222,7 @@
 
 100\. [LRU Cache](11-heaps-and-maps/lru-cache.md)
 
-101\. INVERSIONS
+101\. [INVERSIONS](11-heaps-and-maps/inversions.md)
 
 102\. Distinct Numbers in Window
 

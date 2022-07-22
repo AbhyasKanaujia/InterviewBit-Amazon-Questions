@@ -264,7 +264,7 @@ List of Questions
 ### 2nd June
 
 * [x] LRU Cache
-* [ ] Inversions&#x20;
+* [x] Inversions&#x20;
 * [ ] Distinct Numbers in window&#x20;
 * [ ] Maximum Sum Combinations
 * [ ] K Largest Elements
