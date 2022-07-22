@@ -218,9 +218,9 @@
 
 ### Heaps And Maps
 
-99\. Merge K Sorted Lists
+99\. [Merge K Sorted Lists](11-heaps-and-maps/merge-k-sorted-lists.md)
 
-100\. LRU Cache
+100\. [LRU Cache](11-heaps-and-maps/lru-cache.md)
 
 101\. INVERSIONS
 

@@ -260,3 +260,11 @@ List of Questions
 * [x] Highest Product
 * [x] Assign Mice to Holes
 * [x] Meeting rooms
+
+### 2nd June
+
+* [x] LRU Cache
+* [ ] Inversions&#x20;
+* [ ] Distinct Numbers in window&#x20;
+* [ ] Maximum Sum Combinations
+* [ ] K Largest Elements

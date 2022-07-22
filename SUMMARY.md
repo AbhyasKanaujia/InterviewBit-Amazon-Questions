@@ -137,6 +137,7 @@
 ## 🗻 11 Heaps & Maps
 
 * [Merge K Sorted Lists](11-heaps-and-maps/merge-k-sorted-lists.md)
+* [⭐ LRU Cache](11-heaps-and-maps/lru-cache.md)
 
 ## 🌳 12 Tree Data Structure
 
@@ -186,6 +187,7 @@
 * [⭐ Highest Product](<14 Greedy Algorithm/highest-product.md>)
 * [Assign Mice to Holes](<14 Greedy Algorithm/assign-mice-to-holes.md>)
 * [⭐ Meeting rooms](<14 Greedy Algorithm/meeting-rooms.md>)
+* [Page 3](<14 Greedy Algorithm/page-3.md>)
 
 ## 👨👩👧👦 15 Graph <a href="#15 Graph" id="15 Graph"></a>
 
