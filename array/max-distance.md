@@ -31,6 +31,33 @@ Time Complexity: $$O(n^2)$$
 
 Space Complexity: $$O(1)$$
 
+### Using DP/Recursion/Memoization
+
+```cpp
+int getMaxDist(const vector<int> &A, int i, int j, vector<vector<int>> &dp) {
+    if(i == j)
+        return 0;
+        
+    if(A[i] <= A[j])
+        return j - i;
+        
+    if(dp[i][j])
+        return dp[i][j];
+        
+    return dp[i][j] = max(getMaxDist(A, i + 1, j, dp), getMaxDist(A, i, j - 1, dp));
+}
+
+int Solution::maximumGap(const vector<int> &A) {
+    int i = 0, j = A.size() - 1;
+    vector<vector<int>> dp(A.size(), vector<int>(A.size(), 0));
+    return getMaxDist(A, i, j, dp);
+}
+```
+
+Time Complexity: $$O(n)$$​
+
+Space Complexity: $$O(n)+O(n)$$ for DP and stack
+
 ### leftMin and rightMax
 
 ```cpp
