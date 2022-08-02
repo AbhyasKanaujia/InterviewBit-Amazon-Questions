@@ -1,4 +1,10 @@
-# Make equal elements Array
+---
+cover: >-
+  https://images.unsplash.com/photo-1551993005-75c4131b6bd8?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxhdmVyYWdlfGVufDB8fHx8MTY1OTQyMTMzNg&ixlib=rb-1.2.1&q=80
+coverY: 1149.8445595854923
+---
+
+# ✅ Make equal elements Array
 
 {% embed url="https://www.interviewbit.com/problems/make-equal-elements-array/" %}
 

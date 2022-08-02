@@ -23,14 +23,14 @@
 * [✅ Min Steps in Infinite Grid](array/min-steps-in-infinite-grid.md)
 * [Flip](array/flip.md)
 * [⭐ Find Permutation](array/find-permutation.md)
-* [Maximum Absolute Difference](array/maximum-absolute-difference.md)
-* [Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)
+* [⭐ Maximum Absolute Difference](array/maximum-absolute-difference.md)
+* [⭐ Maximum Unsorted Subarray](array/maximum-unsorted-subarray.md)
 * [Reorder Data in Log File](array/reorder-data-in-log-file.md)
-* [Make equal elements Array](array/make-equal-elements-array.md)
+* [✅ Make equal elements Array](array/make-equal-elements-array.md)
 
 ## ➕ 02 Math
 
-* [Excel Column Number](math/excel-column-number.md)
+* [✅ Excel Column Number](math/excel-column-number.md)
 * [Excel Column Title](math/excel-column-title.md)
 * [Grid Unique Paths](math/grid-unique-paths.md)
 * [Power Of Two Integers](math/power-of-two-integers.md)
