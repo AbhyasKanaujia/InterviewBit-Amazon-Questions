@@ -341,3 +341,5 @@
 155\. [Ugly Number II](<13 Dynamic Programming/page-1.md>)
 
 156\. [Coin Change](<13 Dynamic Programming/coin-change.md>)
+
+157\. [0 - 1 Knapsack Problem](<13 Dynamic Programming/0-1-knapsack-problem.md>)

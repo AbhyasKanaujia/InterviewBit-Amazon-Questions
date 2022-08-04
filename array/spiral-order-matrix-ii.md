@@ -1,4 +1,4 @@
-# ✅ Spiral Order Matrix II
+# Spiral Order Matrix II
 
 {% embed url="https://www.interviewbit.com/problems/spiral-order-matrix-ii/" %}
 

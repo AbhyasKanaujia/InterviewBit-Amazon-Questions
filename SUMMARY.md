@@ -181,6 +181,7 @@
 
 * [Ugly Number II](<13 Dynamic Programming/page-1.md>)
 * [Coin Change](<13 Dynamic Programming/coin-change.md>)
+* [0 - 1 Knapsack Problem](<13 Dynamic Programming/0-1-knapsack-problem.md>)
 
 ## 14 Greedy Algorithm <a href="#14 Greedy Algorithm" id="14 Greedy Algorithm"></a>
 

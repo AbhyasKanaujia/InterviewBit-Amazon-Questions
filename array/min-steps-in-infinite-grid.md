@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# ✅ Min Steps in Infinite Grid
+# ⭐ Min Steps in Infinite Grid
 
 {% embed url="https://www.interviewbit.com/problems/min-steps-in-infinite-grid/" %}
 

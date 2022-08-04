@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# ✅ Pascal Triangle
+# ⭐ Pascal Triangle
 
 {% embed url="https://www.interviewbit.com/problems/pascal-triangle/" %}
 

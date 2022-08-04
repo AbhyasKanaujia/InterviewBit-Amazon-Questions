@@ -1,10 +1,4 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxleGNlbHxlbnwwfHx8fDE2NTk0MjE2OTY&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
-# ✅ Excel Column Number
+# Excel Column Number
 
 {% embed url="https://www.interviewbit.com/problems/excel-column-number/" %}
 
