@@ -338,4 +338,6 @@
 
 ## Dynamic Programming
 
-155\. [Ugly Number II](<13 Dynamic Programming/ugly-number-ii.md>)
+155\. [Ugly Number II](<13 Dynamic Programming/page-1.md>)
+
+156\. [Coin Change](<13 Dynamic Programming/coin-change.md>)

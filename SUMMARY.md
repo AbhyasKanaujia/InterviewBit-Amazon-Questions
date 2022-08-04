@@ -179,7 +179,8 @@
 
 ## 13 Dynamic Programming <a href="#13 Dynamic Programming" id="13 Dynamic Programming"></a>
 
-* [Ugly Number II](<13 Dynamic Programming/ugly-number-ii.md>)
+* [Ugly Number II](<13 Dynamic Programming/page-1.md>)
+* [Coin Change](<13 Dynamic Programming/coin-change.md>)
 
 ## 14 Greedy Algorithm <a href="#14 Greedy Algorithm" id="14 Greedy Algorithm"></a>
 
