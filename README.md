@@ -1,5 +1,7 @@
 # 😇 README
 
+<img src=".gitbook/assets/image (2).png" alt="" data-size="line"> [**Visit Notebook**](https://abhyas-kanaujia.gitbook.io/interviewbit-amazon/)****
+
 Solving important Amazon questions from InterviewBit list of Amazon Questions.&#x20;
 
 {% embed url="https://www.interviewbit.com/search/?q=Amazon" %}

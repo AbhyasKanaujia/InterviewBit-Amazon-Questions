@@ -1,4 +1,10 @@
-# Maximum Unsorted Subarray
+---
+cover: >-
+  https://images.unsplash.com/photo-1536693419517-38712b94e24f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxzY3JhbWJsZWR8ZW58MHx8fHwxNjU5MzgwOTg4&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
+# ⭐ Maximum Unsorted Subarray
 
 {% embed url="https://www.interviewbit.com/problems/maximum-unsorted-subarray/" %}
 

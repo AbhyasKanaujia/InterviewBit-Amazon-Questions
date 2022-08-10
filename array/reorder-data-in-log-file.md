@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1604292771492-1aee47c1456b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxsb2clMjBib29rfGVufDB8fHx8MTY1OTQxOTQzMg&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Reorder Data in Log File
 
 {% embed url="https://www.interviewbit.com/problems/reorder-data-in-log-files/" %}
@@ -135,3 +141,43 @@ vector<string> Solution::reorderLogs(vector<string> &A) {
 3. Insert the digits back into the digits portion in order.&#x20;
 4. Create a custom comparator function according to the specified condition.
 5. Sort the letter part.
+
+<details>
+
+<summary>Using Extra Space</summary>
+
+```cpp
+string typeOf(string log) {
+    return (isdigit(log.back()) ? "Digit-Log" : "Letter-Log");
+}
+
+string getContent(const string &log) {
+    int firstHyphenIndex = 0;
+    while(log[firstHyphenIndex] != '-')
+        firstHyphenIndex++;
+        
+    return log.substr(firstHyphenIndex + 1);
+}
+
+bool contentComparator(const string &log1, const string &log2) {
+    return getContent(log1) < getContent(log2);
+}
+
+vector<string> Solution::reorderLogs(vector<string> &A) {
+    vector<string> res;
+    
+    for(string log : A)
+        if(typeOf(log) == "Letter-Log")
+            res.push_back(log);
+            
+    sort(res.begin(), res.end(), contentComparator);
+    
+    for(string log : A)
+        if(typeOf(log) == "Digit-Log")
+            res.push_back(log);
+            
+    return res;
+}
+```
+
+</details>

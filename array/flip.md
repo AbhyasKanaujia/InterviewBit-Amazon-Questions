@@ -4,7 +4,7 @@ cover: >-
 coverY: 127.426597582038
 ---
 
-# ⭐ Flip
+# Flip
 
 {% embed url="https://www.interviewbit.com/problems/flip/hints/" %}
 One operation means changing character **0** to **1** and vice-versa.\

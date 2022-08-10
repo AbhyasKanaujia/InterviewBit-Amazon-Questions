@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# ⭐ Next Permutation
+# Next Permutation
 
 {% embed url="https://www.interviewbit.com/problems/next-permutation/" %}
 

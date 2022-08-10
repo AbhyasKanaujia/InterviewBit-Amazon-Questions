@@ -1,4 +1,4 @@
-# ⭐ Find Duplicate in Array
+# Find Duplicate in Array
 
 {% embed url="https://www.interviewbit.com/problems/find-duplicate-in-array/" %}
 
