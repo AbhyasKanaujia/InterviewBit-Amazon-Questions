@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1505383382952-9d7e687046b9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxtaWRkbGV8ZW58MHx8fHwxNjU5NzE0ODA0&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # ⭐ Median of Array
 
 {% embed url="https://www.interviewbit.com/problems/median-of-array/" %}

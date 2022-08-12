@@ -1,10 +1,4 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxyb2JvdCUyMHBhdGh8ZW58MHx8fHwxNjU5NDQ1MzQx&ixlib=rb-1.2.1&q=80
-coverY: 450.77720207253884
----
-
-# ⭐ Grid Unique Paths
+# Grid Unique Paths
 
 {% embed url="https://www.interviewbit.com/problems/grid-unique-paths/" %}
 

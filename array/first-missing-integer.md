@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# First Missing Integer
+# ⭐ First Missing Integer
 
 {% embed url="https://www.interviewbit.com/problems/first-missing-integer/" %}
 Given an unsorted integer array, find the first missing positive integer.

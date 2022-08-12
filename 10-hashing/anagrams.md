@@ -12,7 +12,7 @@
 
 <summary>What is a Frequency Map?</summary>
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 </details>
 

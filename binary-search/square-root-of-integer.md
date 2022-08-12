@@ -1,4 +1,12 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1534126416832-a88fdf2911c2?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxkaXZpZGV8ZW58MHx8fHwxNjU5NzE0ODYx&ixlib=rb-1.2.1&q=80
+coverY: 727.361963190184
+---
+
 # ⭐ Square Root of Integer
+
+
 
 {% embed url="https://www.interviewbit.com/search/?q=Amazon" %}
 
