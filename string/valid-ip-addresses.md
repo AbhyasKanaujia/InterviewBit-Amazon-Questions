@@ -34,3 +34,9 @@ vector<string> Solution::restoreIpAddresses(string A) {
     return res;
 }
 ```
+
+## Edge Cases
+
+* `size <= 3`
+* `index+size <= A.size()`
+* `stoi(sub)<256 && (size == 1 || sub[0] != '0')`
