@@ -296,16 +296,14 @@ ListNode *reverseLL(ListNode *ll) {
 
 ### Get the Middle Element of a Linked List
 
-```cpp
-ListNode *getMiddle(ListNode *A) {
-    ListNode *slow = A, *fast = A;
-    while(fast && fast -> next && fast -> next -> next) {
+<pre class="language-cpp"><code class="lang-cpp"><strong>ListNode *getMiddle(ListNode *A) {
+</strong>    ListNode *slow = A, *fast = A;
+    while(fast &#x26;&#x26; fast -> next) {
         slow = slow -> next;
         fast = fast -> next -> next;
     }
     return slow;
-}
-```
+}</code></pre>
 
 ```bash
 Odd length: 
@@ -314,4 +312,28 @@ Odd length:
 Even Length: 
     1 2 3 4 5 6 7 8
           ^
+```
+
+#### To get 5 as the middle element in event elements
+
+Initialize `fast` with `head->next`
+
+```cpp
+ListNode *getMiddle(ListNode *A) {
+    ListNode *slow = A, *fast = A->next;
+    while(fast && fast -> next) {
+        slow = slow -> next;
+        fast = fast -> next -> next;
+    }
+    return slow;
+}
+```
+
+```
+Odd length: 
+    1 2 3 4 5 6 7
+          ^
+Even Length: 
+    1 2 3 4 5 6 7 8
+            ^* special, comapre to previous code
 ```
