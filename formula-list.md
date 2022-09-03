@@ -298,7 +298,7 @@ ListNode *reverseLL(ListNode *ll) {
 
 <pre class="language-cpp"><code class="lang-cpp"><strong>ListNode *getMiddle(ListNode *A) {
 </strong>    ListNode *slow = A, *fast = A;
-    while(fast &#x26;&#x26; fast -> next) {
+    while(fast &#x26;&#x26; fast -> next &#x26;&#x26; fast->next->next) {
         slow = slow -> next;
         fast = fast -> next -> next;
     }
@@ -320,7 +320,7 @@ Initialize `fast` with `head->next`
 
 ```cpp
 ListNode *getMiddle(ListNode *A) {
-    ListNode *slow = A, *fast = A->next;
+    ListNode *slow = A, *fast = next;
     while(fast && fast -> next) {
         slow = slow -> next;
         fast = fast -> next -> next;
