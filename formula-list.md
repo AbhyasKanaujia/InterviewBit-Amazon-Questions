@@ -337,3 +337,32 @@ Even Length:
     1 2 3 4 5 6 7 8
             ^* special, comapre to previous code
 ```
+
+## Binary Tree
+
+### Iterative Traversal Algorithm
+
+#### Inorder Traversal
+
+```cpp
+vector<int> inOrder(Node* root) {
+    vector<int> res;
+    stack<Node *> s;
+    Node* current = root;
+    
+    while(current || !s.empty()) {
+        while(current) {
+            s.push(current);
+            current = current->left;
+        }
+        
+        current = s.top();
+        s.pop();
+        
+        res.push_back(current->data);
+        current = current->right;
+    }
+    
+    return res;
+}
+```
